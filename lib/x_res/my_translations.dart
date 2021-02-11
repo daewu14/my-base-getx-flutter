@@ -35,7 +35,7 @@ class MyTranslations extends Translations {
   @override
   Map<String, Map<String, String>> get keys => {
     'id': { // INDONESIAN
-      'title_app': 'Clandy\'s',
+      'title_app': 'Judul Aplikasimu',
       'saya' : 'Sayaa',
       'peringatan': 'Peringatan',
       'tutup': 'Tutup',
@@ -50,7 +50,7 @@ class MyTranslations extends Translations {
       'change_theme': 'Ubah Tema',
     },
     'en': { // ENGLISH
-      'title_app': 'Clandy\'s',
+      'title_app': 'Your App Title',
       'saya': 'I\'am',
       'peringatan' : 'Anouncement',
       'tutup' : 'Close',
