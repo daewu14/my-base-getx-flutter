@@ -1,0 +1,5012 @@
+[
+  {
+    "id": 1,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "MEH",
+    "jnt_name": "MEULABOH"
+  },
+  {
+    "id": 2,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Barat Daya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "BLP",
+    "jnt_name": "ACEH BARAT DAYA"
+  },
+  {
+    "id": 3,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Besar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "JTO",
+    "jnt_name": "JANTHO"
+  },
+  {
+    "id": 4,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Jaya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "CLG",
+    "jnt_name": "CALANG"
+  },
+  {
+    "id": 5,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "TPK",
+    "jnt_name": "ACEH SELATAN"
+  },
+  {
+    "id": 6,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Singkil",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "SNK",
+    "jnt_name": "SINGKIL"
+  },
+  {
+    "id": 7,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Tamiang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "KSP",
+    "jnt_name": "KUALA SIMPANG"
+  },
+  {
+    "id": 8,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "TKO",
+    "jnt_name": "TAKENGON"
+  },
+  {
+    "id": 9,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Tenggara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "KCA",
+    "jnt_name": "KUTACANE"
+  },
+  {
+    "id": 10,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "IDR",
+    "jnt_name": "IDI RAYEUK"
+  },
+  {
+    "id": 11,
+    "provinsi_id": 21,
+    "kabupaten_name": "Aceh Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:48.000000Z",
+    "jnt_code": "LSN",
+    "jnt_name": "LHOKSUKON"
+  },
+  {
+    "id": 12,
+    "provinsi_id": 32,
+    "kabupaten_name": "Agam",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "LBB",
+    "jnt_name": "LUBUK BASUNG"
+  },
+  {
+    "id": 13,
+    "provinsi_id": 23,
+    "kabupaten_name": "Alor",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "KBH",
+    "jnt_name": "KALABAHI"
+  },
+  {
+    "id": 14,
+    "provinsi_id": 19,
+    "kabupaten_name": "Ambon",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "AMQ",
+    "jnt_name": "AMBON"
+  },
+  {
+    "id": 15,
+    "provinsi_id": 34,
+    "kabupaten_name": "Asahan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "ASH",
+    "jnt_name": "ASAHAN"
+  },
+  {
+    "id": 16,
+    "provinsi_id": 24,
+    "kabupaten_name": "Asmat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "AGT",
+    "jnt_name": "ASMAT"
+  },
+  {
+    "id": 17,
+    "provinsi_id": 1,
+    "kabupaten_name": "Badung",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "MGW",
+    "jnt_name": "BADUNG"
+  },
+  {
+    "id": 18,
+    "provinsi_id": 13,
+    "kabupaten_name": "Balangan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "PAG",
+    "jnt_name": "BALANGAN"
+  },
+  {
+    "id": 19,
+    "provinsi_id": 15,
+    "kabupaten_name": "Balikpapan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "BPN",
+    "jnt_name": "BALIKPAPAN"
+  },
+  {
+    "id": 20,
+    "provinsi_id": 21,
+    "kabupaten_name": "Banda Aceh",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "BTJ",
+    "jnt_name": "BANDA ACEH"
+  },
+  {
+    "id": 21,
+    "provinsi_id": 18,
+    "kabupaten_name": "Bandar Lampung",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "TKG",
+    "jnt_name": "BANDAR LAMPUNG"
+  },
+  {
+    "id": 22,
+    "provinsi_id": 9,
+    "kabupaten_name": "Bandung",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:49.000000Z",
+    "jnt_code": "BDO",
+    "jnt_name": "BANDUNG"
+  },
+  {
+    "id": 23,
+    "provinsi_id": 9,
+    "kabupaten_name": "Bandung",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:01.000000Z",
+    "jnt_code": "BDO",
+    "jnt_name": "BANDUNG"
+  },
+  {
+    "id": 24,
+    "provinsi_id": 9,
+    "kabupaten_name": "Bandung Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "NGP",
+    "jnt_name": "NGAMPRAH"
+  },
+  {
+    "id": 25,
+    "provinsi_id": 29,
+    "kabupaten_name": "Banggai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BAG",
+    "jnt_name": "BANGGAI"
+  },
+  {
+    "id": 26,
+    "provinsi_id": 29,
+    "kabupaten_name": "Banggai Kepulauan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "SAL",
+    "jnt_name": "BANGGAI KEPULAUAN"
+  },
+  {
+    "id": 27,
+    "provinsi_id": 2,
+    "kabupaten_name": "Bangka",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "SAI",
+    "jnt_name": "BANGKA"
+  },
+  {
+    "id": 28,
+    "provinsi_id": 2,
+    "kabupaten_name": "Bangka Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "MEK",
+    "jnt_name": "BANGKA BARAT"
+  },
+  {
+    "id": 29,
+    "provinsi_id": 2,
+    "kabupaten_name": "Bangka Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "TOB",
+    "jnt_name": "BANGKA SELATAN"
+  },
+  {
+    "id": 30,
+    "provinsi_id": 2,
+    "kabupaten_name": "Bangka Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "KOB",
+    "jnt_name": "BANGKA TENGAH"
+  },
+  {
+    "id": 31,
+    "provinsi_id": 11,
+    "kabupaten_name": "Bangkalan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BWX",
+    "jnt_name": "BANGKALAN"
+  },
+  {
+    "id": 32,
+    "provinsi_id": 1,
+    "kabupaten_name": "Bangli",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BNL",
+    "jnt_name": "BANGLI"
+  },
+  {
+    "id": 33,
+    "provinsi_id": 13,
+    "kabupaten_name": "Banjar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BJA",
+    "jnt_name": "BANJAR"
+  },
+  {
+    "id": 34,
+    "provinsi_id": 9,
+    "kabupaten_name": "Banjar",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:01.000000Z",
+    "jnt_code": "BJA",
+    "jnt_name": "BANJAR"
+  },
+  {
+    "id": 35,
+    "provinsi_id": 13,
+    "kabupaten_name": "Banjarbaru",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BJB",
+    "jnt_name": "BANJARBARU"
+  },
+  {
+    "id": 36,
+    "provinsi_id": 13,
+    "kabupaten_name": "Banjarmasin",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BDJ",
+    "jnt_name": "BANJARMASIN"
+  },
+  {
+    "id": 37,
+    "provinsi_id": 10,
+    "kabupaten_name": "Banjarnegara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BJN",
+    "jnt_name": "BANJARNEGARA"
+  },
+  {
+    "id": 38,
+    "provinsi_id": 28,
+    "kabupaten_name": "Bantaeng",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BXG",
+    "jnt_name": "BANTAENG"
+  },
+  {
+    "id": 39,
+    "provinsi_id": 5,
+    "kabupaten_name": "Bantul",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:50.000000Z",
+    "jnt_code": "BTL",
+    "jnt_name": "BANTUL"
+  },
+  {
+    "id": 40,
+    "provinsi_id": 33,
+    "kabupaten_name": "Banyuasin",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "PKB",
+    "jnt_name": "BANYUASIN"
+  },
+  {
+    "id": 41,
+    "provinsi_id": 10,
+    "kabupaten_name": "Banyumas",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "PWO",
+    "jnt_name": "BANYUMAS"
+  },
+  {
+    "id": 42,
+    "provinsi_id": 11,
+    "kabupaten_name": "Banyuwangi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "BWI",
+    "jnt_name": "BANYUWANGI"
+  },
+  {
+    "id": 43,
+    "provinsi_id": 13,
+    "kabupaten_name": "Barito Kuala",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "MRH",
+    "jnt_name": "MARABAHAN"
+  },
+  {
+    "id": 44,
+    "provinsi_id": 14,
+    "kabupaten_name": "Barito Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "BTW",
+    "jnt_name": "BUNTOK"
+  },
+  {
+    "id": 45,
+    "provinsi_id": 14,
+    "kabupaten_name": "Barito Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "TAL",
+    "jnt_name": "TAMIANG LAYANG"
+  },
+  {
+    "id": 46,
+    "provinsi_id": 14,
+    "kabupaten_name": "Barito Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "MRW",
+    "jnt_name": "MUARA TEWEH"
+  },
+  {
+    "id": 47,
+    "provinsi_id": 28,
+    "kabupaten_name": "Barru",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "BUU",
+    "jnt_name": "BARRU"
+  },
+  {
+    "id": 48,
+    "provinsi_id": 17,
+    "kabupaten_name": "Batam",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "BTH",
+    "jnt_name": "BATAM"
+  },
+  {
+    "id": 49,
+    "provinsi_id": 10,
+    "kabupaten_name": "Batang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "BGG",
+    "jnt_name": "BATANG"
+  },
+  {
+    "id": 50,
+    "provinsi_id": 8,
+    "kabupaten_name": "Batang Hari",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "MBN",
+    "jnt_name": "BATANG HARI"
+  },
+  {
+    "id": 51,
+    "provinsi_id": 11,
+    "kabupaten_name": "Batu",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "BAT",
+    "jnt_name": "BATU"
+  },
+  {
+    "id": 52,
+    "provinsi_id": 34,
+    "kabupaten_name": "Batu Bara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "LIP",
+    "jnt_name": "BATU BARA"
+  },
+  {
+    "id": 53,
+    "provinsi_id": 30,
+    "kabupaten_name": "Bau-Bau",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:51.000000Z",
+    "jnt_code": "BUW",
+    "jnt_name": "BAU-BAU"
+  },
+  {
+    "id": 54,
+    "provinsi_id": 9,
+    "kabupaten_name": "Bekasi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "BKI",
+    "jnt_name": "BEKASI"
+  },
+  {
+    "id": 55,
+    "provinsi_id": 9,
+    "kabupaten_name": "Bekasi",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:02.000000Z",
+    "jnt_code": "BKI",
+    "jnt_name": "BEKASI"
+  },
+  {
+    "id": 56,
+    "provinsi_id": 2,
+    "kabupaten_name": "Belitung",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "TJQ",
+    "jnt_name": "BELITUNG"
+  },
+  {
+    "id": 57,
+    "provinsi_id": 2,
+    "kabupaten_name": "Belitung Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "MAG",
+    "jnt_name": "BELITUNG TIMUR"
+  },
+  {
+    "id": 58,
+    "provinsi_id": 23,
+    "kabupaten_name": "Belu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "BET",
+    "jnt_name": "MALAKA"
+  },
+  {
+    "id": 59,
+    "provinsi_id": 21,
+    "kabupaten_name": "Bener Meriah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "STR",
+    "jnt_name": "SIMPANG TIGA REDELONG"
+  },
+  {
+    "id": 60,
+    "provinsi_id": 26,
+    "kabupaten_name": "Bengkalis",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "BGS",
+    "jnt_name": "BENGKALIS"
+  },
+  {
+    "id": 61,
+    "provinsi_id": 12,
+    "kabupaten_name": "Bengkayang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "BEG",
+    "jnt_name": "BENGKAYANG"
+  },
+  {
+    "id": 62,
+    "provinsi_id": 4,
+    "kabupaten_name": "Bengkulu",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "BKS",
+    "jnt_name": "BENGKULU"
+  },
+  {
+    "id": 63,
+    "provinsi_id": 4,
+    "kabupaten_name": "Bengkulu Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "MNN",
+    "jnt_name": "MANNA"
+  },
+  {
+    "id": 64,
+    "provinsi_id": 4,
+    "kabupaten_name": "Bengkulu Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "KRT",
+    "jnt_name": "BENGKULU TENGAH"
+  },
+  {
+    "id": 65,
+    "provinsi_id": 4,
+    "kabupaten_name": "Bengkulu Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "ARG",
+    "jnt_name": "ARGAMAKMUR"
+  },
+  {
+    "id": 66,
+    "provinsi_id": 15,
+    "kabupaten_name": "Berau",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:52.000000Z",
+    "jnt_code": "BEU",
+    "jnt_name": "BERAU"
+  },
+  {
+    "id": 67,
+    "provinsi_id": 24,
+    "kabupaten_name": "Biak Numfor",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BIK",
+    "jnt_name": "BIAK"
+  },
+  {
+    "id": 68,
+    "provinsi_id": 22,
+    "kabupaten_name": "Bima",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BMU",
+    "jnt_name": "BIMA"
+  },
+  {
+    "id": 69,
+    "provinsi_id": 22,
+    "kabupaten_name": "Bima",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:02.000000Z",
+    "jnt_code": "BMU",
+    "jnt_name": "BIMA"
+  },
+  {
+    "id": 70,
+    "provinsi_id": 34,
+    "kabupaten_name": "Binjai",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BJI",
+    "jnt_name": "BINJAI"
+  },
+  {
+    "id": 71,
+    "provinsi_id": 17,
+    "kabupaten_name": "Bintan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BSB",
+    "jnt_name": "BINTAN"
+  },
+  {
+    "id": 72,
+    "provinsi_id": 21,
+    "kabupaten_name": "Bireuen",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BRW",
+    "jnt_name": "BIREUEN"
+  },
+  {
+    "id": 73,
+    "provinsi_id": 31,
+    "kabupaten_name": "Bitung",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BIT",
+    "jnt_name": "BITUNG"
+  },
+  {
+    "id": 74,
+    "provinsi_id": 11,
+    "kabupaten_name": "Blitar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BLT",
+    "jnt_name": "BLITAR"
+  },
+  {
+    "id": 75,
+    "provinsi_id": 11,
+    "kabupaten_name": "Blitar",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:03.000000Z",
+    "jnt_code": "BLT",
+    "jnt_name": "BLITAR"
+  },
+  {
+    "id": 76,
+    "provinsi_id": 10,
+    "kabupaten_name": "Blora",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BOL",
+    "jnt_name": "BLORA"
+  },
+  {
+    "id": 77,
+    "provinsi_id": 7,
+    "kabupaten_name": "Boalemo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "TIT",
+    "jnt_name": "TILAMUTA"
+  },
+  {
+    "id": 78,
+    "provinsi_id": 9,
+    "kabupaten_name": "Bogor",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:53.000000Z",
+    "jnt_code": "BGR",
+    "jnt_name": "BOGOR"
+  },
+  {
+    "id": 79,
+    "provinsi_id": 9,
+    "kabupaten_name": "Bogor",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:03.000000Z",
+    "jnt_code": "BGR",
+    "jnt_name": "BOGOR"
+  },
+  {
+    "id": 80,
+    "provinsi_id": 11,
+    "kabupaten_name": "Bojonegoro",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "BJE",
+    "jnt_name": "BOJONEGORO"
+  },
+  {
+    "id": 81,
+    "provinsi_id": 31,
+    "kabupaten_name": "Bolaang Mongondow (Bolmong)",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "LOL",
+    "jnt_name": "BOLAANG MONGONDOW"
+  },
+  {
+    "id": 82,
+    "provinsi_id": 31,
+    "kabupaten_name": "Bolaang Mongondow Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "BLU",
+    "jnt_name": "MONGONDOW SELATAN"
+  },
+  {
+    "id": 83,
+    "provinsi_id": 31,
+    "kabupaten_name": "Bolaang Mongondow Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "TUT",
+    "jnt_name": "BOLAANG MONGONDOW TIMUR"
+  },
+  {
+    "id": 84,
+    "provinsi_id": 31,
+    "kabupaten_name": "Bolaang Mongondow Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "BRK",
+    "jnt_name": "BOLAANG MONGONDOW UTARA"
+  },
+  {
+    "id": 85,
+    "provinsi_id": 30,
+    "kabupaten_name": "Bombana",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "RUB",
+    "jnt_name": "BOMBANA"
+  },
+  {
+    "id": 86,
+    "provinsi_id": 11,
+    "kabupaten_name": "Bondowoso",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "BWS",
+    "jnt_name": "BONDOWOSO"
+  },
+  {
+    "id": 87,
+    "provinsi_id": 28,
+    "kabupaten_name": "Bone",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "WPE",
+    "jnt_name": "BONE"
+  },
+  {
+    "id": 88,
+    "provinsi_id": 7,
+    "kabupaten_name": "Bone Bolango",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "SUW",
+    "jnt_name": "SUWAWA"
+  },
+  {
+    "id": 89,
+    "provinsi_id": 15,
+    "kabupaten_name": "Bontang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "BXT",
+    "jnt_name": "BONTANG"
+  },
+  {
+    "id": 90,
+    "provinsi_id": 24,
+    "kabupaten_name": "Boven Digoel",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "BOD",
+    "jnt_name": "BOVEN DIGOEL"
+  },
+  {
+    "id": 91,
+    "provinsi_id": 10,
+    "kabupaten_name": "Boyolali",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:54.000000Z",
+    "jnt_code": "BYL",
+    "jnt_name": "BOYOLALI"
+  },
+  {
+    "id": 92,
+    "provinsi_id": 10,
+    "kabupaten_name": "Brebes",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "BRB",
+    "jnt_name": "BREBES"
+  },
+  {
+    "id": 93,
+    "provinsi_id": 32,
+    "kabupaten_name": "Bukittinggi",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "BTT",
+    "jnt_name": "BUKIT TINGGI"
+  },
+  {
+    "id": 94,
+    "provinsi_id": 1,
+    "kabupaten_name": "Buleleng",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "SGA",
+    "jnt_name": "BULELENG"
+  },
+  {
+    "id": 95,
+    "provinsi_id": 28,
+    "kabupaten_name": "Bulukumba",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "BXW",
+    "jnt_name": "BULUKUMBA"
+  },
+  {
+    "id": 96,
+    "provinsi_id": 16,
+    "kabupaten_name": "Bulungan (Bulongan)",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "TZO",
+    "jnt_name": "BULUNGAN"
+  },
+  {
+    "id": 97,
+    "provinsi_id": 8,
+    "kabupaten_name": "Bungo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "MRB",
+    "jnt_name": "MUARA BUNGO"
+  },
+  {
+    "id": 98,
+    "provinsi_id": 29,
+    "kabupaten_name": "Buol",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "BUO",
+    "jnt_name": "BUOL"
+  },
+  {
+    "id": 99,
+    "provinsi_id": 19,
+    "kabupaten_name": "Buru",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "NAM",
+    "jnt_name": "BURU"
+  },
+  {
+    "id": 100,
+    "provinsi_id": 19,
+    "kabupaten_name": "Buru Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "NMR",
+    "jnt_name": "BURU SELATAN"
+  },
+  {
+    "id": 101,
+    "provinsi_id": 30,
+    "kabupaten_name": "Buton",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "PAW",
+    "jnt_name": "BUTON"
+  },
+  {
+    "id": 102,
+    "provinsi_id": 30,
+    "kabupaten_name": "Buton Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "BUR",
+    "jnt_name": "BUTON UTARA"
+  },
+  {
+    "id": 103,
+    "provinsi_id": 9,
+    "kabupaten_name": "Ciamis",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "CMI",
+    "jnt_name": "CIAMIS"
+  },
+  {
+    "id": 104,
+    "provinsi_id": 9,
+    "kabupaten_name": "Cianjur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:55.000000Z",
+    "jnt_code": "CJR",
+    "jnt_name": "CIANJUR"
+  },
+  {
+    "id": 105,
+    "provinsi_id": 10,
+    "kabupaten_name": "Cilacap",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "CLP",
+    "jnt_name": "CILACAP"
+  },
+  {
+    "id": 106,
+    "provinsi_id": 3,
+    "kabupaten_name": "Cilegon",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "CIL",
+    "jnt_name": "CILEGON"
+  },
+  {
+    "id": 107,
+    "provinsi_id": 9,
+    "kabupaten_name": "Cimahi",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "CIM",
+    "jnt_name": "CIMAHI"
+  },
+  {
+    "id": 108,
+    "provinsi_id": 9,
+    "kabupaten_name": "Cirebon",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "CRN",
+    "jnt_name": "CIREBON"
+  },
+  {
+    "id": 109,
+    "provinsi_id": 9,
+    "kabupaten_name": "Cirebon",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:04.000000Z",
+    "jnt_code": "CRN",
+    "jnt_name": "CIREBON"
+  },
+  {
+    "id": 110,
+    "provinsi_id": 34,
+    "kabupaten_name": "Dairi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "ZIK",
+    "jnt_name": "DAIRI"
+  },
+  {
+    "id": 111,
+    "provinsi_id": 24,
+    "kabupaten_name": "Deiyai (Deliyai)",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "TIG",
+    "jnt_name": "DEIYAI"
+  },
+  {
+    "id": 112,
+    "provinsi_id": 34,
+    "kabupaten_name": "Deli Serdang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "DES",
+    "jnt_name": "DELI SERDANG"
+  },
+  {
+    "id": 113,
+    "provinsi_id": 10,
+    "kabupaten_name": "Demak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "DMK",
+    "jnt_name": "DEMAK"
+  },
+  {
+    "id": 114,
+    "provinsi_id": 1,
+    "kabupaten_name": "Denpasar",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "DPS",
+    "jnt_name": "DENPASAR"
+  },
+  {
+    "id": 115,
+    "provinsi_id": 9,
+    "kabupaten_name": "Depok",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "DPK",
+    "jnt_name": "DEPOK"
+  },
+  {
+    "id": 116,
+    "provinsi_id": 32,
+    "kabupaten_name": "Dharmasraya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "DHR",
+    "jnt_name": "DHAMASRAYA"
+  },
+  {
+    "id": 117,
+    "provinsi_id": 24,
+    "kabupaten_name": "Dogiyai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "KIG",
+    "jnt_name": "DOGIYAI"
+  },
+  {
+    "id": 118,
+    "provinsi_id": 22,
+    "kabupaten_name": "Dompu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:56.000000Z",
+    "jnt_code": "DPU",
+    "jnt_name": "DOMPU"
+  },
+  {
+    "id": 119,
+    "provinsi_id": 29,
+    "kabupaten_name": "Donggala",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "DON",
+    "jnt_name": "DONGGALA"
+  },
+  {
+    "id": 120,
+    "provinsi_id": 26,
+    "kabupaten_name": "Dumai",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "DUM",
+    "jnt_name": "DUMAI"
+  },
+  {
+    "id": 121,
+    "provinsi_id": 33,
+    "kabupaten_name": "Empat Lawang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "TBI",
+    "jnt_name": "EMPAT LAWANG"
+  },
+  {
+    "id": 122,
+    "provinsi_id": 23,
+    "kabupaten_name": "Ende",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "ENE",
+    "jnt_name": "ENDE"
+  },
+  {
+    "id": 123,
+    "provinsi_id": 28,
+    "kabupaten_name": "Enrekang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "EKG",
+    "jnt_name": "ENREKANG"
+  },
+  {
+    "id": 124,
+    "provinsi_id": 25,
+    "kabupaten_name": "Fakfak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "FKQ",
+    "jnt_name": "FAK-FAK"
+  },
+  {
+    "id": 125,
+    "provinsi_id": 23,
+    "kabupaten_name": "Flores Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "LKA",
+    "jnt_name": "LARANTUKA"
+  },
+  {
+    "id": 126,
+    "provinsi_id": 9,
+    "kabupaten_name": "Garut",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "GRT",
+    "jnt_name": "GARUT"
+  },
+  {
+    "id": 127,
+    "provinsi_id": 21,
+    "kabupaten_name": "Gayo Lues",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "BLK",
+    "jnt_name": "GAYO LUES"
+  },
+  {
+    "id": 128,
+    "provinsi_id": 1,
+    "kabupaten_name": "Gianyar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "GIA",
+    "jnt_name": "GIANYAR"
+  },
+  {
+    "id": 129,
+    "provinsi_id": 7,
+    "kabupaten_name": "Gorontalo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "GTO",
+    "jnt_name": "GORONTALO"
+  },
+  {
+    "id": 130,
+    "provinsi_id": 7,
+    "kabupaten_name": "Gorontalo",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:05.000000Z",
+    "jnt_code": "GTO",
+    "jnt_name": "GORONTALO"
+  },
+  {
+    "id": 131,
+    "provinsi_id": 7,
+    "kabupaten_name": "Gorontalo Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:57.000000Z",
+    "jnt_code": "KWD",
+    "jnt_name": "GORONTALO UTARA"
+  },
+  {
+    "id": 132,
+    "provinsi_id": 28,
+    "kabupaten_name": "Gowa",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "SGM",
+    "jnt_name": "GOWA"
+  },
+  {
+    "id": 133,
+    "provinsi_id": 11,
+    "kabupaten_name": "Gresik",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "GSK",
+    "jnt_name": "GRESIK"
+  },
+  {
+    "id": 134,
+    "provinsi_id": 10,
+    "kabupaten_name": "Grobogan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "PDD",
+    "jnt_name": "GROBOGAN"
+  },
+  {
+    "id": 135,
+    "provinsi_id": 5,
+    "kabupaten_name": "Gunung Kidul",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "WNO",
+    "jnt_name": "WONOSARI"
+  },
+  {
+    "id": 136,
+    "provinsi_id": 14,
+    "kabupaten_name": "Gunung Mas",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "KUK",
+    "jnt_name": "KUALA KURUN"
+  },
+  {
+    "id": 137,
+    "provinsi_id": 34,
+    "kabupaten_name": "Gunungsitoli",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "GNS",
+    "jnt_name": "GUNUNG SITOLI"
+  },
+  {
+    "id": 138,
+    "provinsi_id": 20,
+    "kabupaten_name": "Halmahera Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "JAL",
+    "jnt_name": "HALMAHERA BARAT"
+  },
+  {
+    "id": 139,
+    "provinsi_id": 20,
+    "kabupaten_name": "Halmahera Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "LAH",
+    "jnt_name": "HALMAHERA SELATAN"
+  },
+  {
+    "id": 140,
+    "provinsi_id": 20,
+    "kabupaten_name": "Halmahera Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "ZSI",
+    "jnt_name": "HALMAHERA TENGAH"
+  },
+  {
+    "id": 141,
+    "provinsi_id": 20,
+    "kabupaten_name": "Halmahera Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "MAB",
+    "jnt_name": "HALMAHERA TIMUR"
+  },
+  {
+    "id": 142,
+    "provinsi_id": 20,
+    "kabupaten_name": "Halmahera Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "TBO",
+    "jnt_name": "HALMAHERA UTARA"
+  },
+  {
+    "id": 143,
+    "provinsi_id": 13,
+    "kabupaten_name": "Hulu Sungai Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:58.000000Z",
+    "jnt_code": "KDG",
+    "jnt_name": "KANDANGAN"
+  },
+  {
+    "id": 144,
+    "provinsi_id": 13,
+    "kabupaten_name": "Hulu Sungai Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "BAR",
+    "jnt_name": "HULU SUNGAI TENGAH"
+  },
+  {
+    "id": 145,
+    "provinsi_id": 13,
+    "kabupaten_name": "Hulu Sungai Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "AMN",
+    "jnt_name": "AMUNTAI"
+  },
+  {
+    "id": 146,
+    "provinsi_id": 34,
+    "kabupaten_name": "Humbang Hasundutan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "DOS",
+    "jnt_name": "HUMBANG HASUNDUTAN"
+  },
+  {
+    "id": 147,
+    "provinsi_id": 26,
+    "kabupaten_name": "Indragiri Hilir",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "TBL",
+    "jnt_name": "INDRAGIRI HILIR"
+  },
+  {
+    "id": 148,
+    "provinsi_id": 26,
+    "kabupaten_name": "Indragiri Hulu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "RGT",
+    "jnt_name": "INDRAGIRI HULU"
+  },
+  {
+    "id": 149,
+    "provinsi_id": 9,
+    "kabupaten_name": "Indramayu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "IDM",
+    "jnt_name": "INDRAMAYU"
+  },
+  {
+    "id": 150,
+    "provinsi_id": 24,
+    "kabupaten_name": "Intan Jaya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "SUG",
+    "jnt_name": "INTAN JAYA"
+  },
+  {
+    "id": 151,
+    "provinsi_id": 6,
+    "kabupaten_name": "Jakarta Barat",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "JKT",
+    "jnt_name": "JAKARTA"
+  },
+  {
+    "id": 152,
+    "provinsi_id": 6,
+    "kabupaten_name": "Jakarta Pusat",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "JKT",
+    "jnt_name": "JAKARTA"
+  },
+  {
+    "id": 153,
+    "provinsi_id": 6,
+    "kabupaten_name": "Jakarta Selatan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "JKT",
+    "jnt_name": "JAKARTA"
+  },
+  {
+    "id": 154,
+    "provinsi_id": 6,
+    "kabupaten_name": "Jakarta Timur",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "JKT",
+    "jnt_name": "JAKARTA"
+  },
+  {
+    "id": 155,
+    "provinsi_id": 6,
+    "kabupaten_name": "Jakarta Utara",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "JKT",
+    "jnt_name": "JAKARTA"
+  },
+  {
+    "id": 156,
+    "provinsi_id": 8,
+    "kabupaten_name": "Jambi",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:32:59.000000Z",
+    "jnt_code": "DJB",
+    "jnt_name": "JAMBI"
+  },
+  {
+    "id": 157,
+    "provinsi_id": 24,
+    "kabupaten_name": "Jayapura",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "DJJ",
+    "jnt_name": "JAYAPURA"
+  },
+  {
+    "id": 158,
+    "provinsi_id": 24,
+    "kabupaten_name": "Jayapura",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:05.000000Z",
+    "jnt_code": "DJJ",
+    "jnt_name": "JAYAPURA"
+  },
+  {
+    "id": 159,
+    "provinsi_id": 24,
+    "kabupaten_name": "Jayawijaya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "WMX",
+    "jnt_name": "JAYAWIJAYA"
+  },
+  {
+    "id": 160,
+    "provinsi_id": 11,
+    "kabupaten_name": "Jember",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "JBR",
+    "jnt_name": "JEMBER"
+  },
+  {
+    "id": 161,
+    "provinsi_id": 1,
+    "kabupaten_name": "Jembrana",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "NRG",
+    "jnt_name": "JEMBRANA"
+  },
+  {
+    "id": 162,
+    "provinsi_id": 28,
+    "kabupaten_name": "Jeneponto",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "JPO",
+    "jnt_name": "JENEPONTO"
+  },
+  {
+    "id": 163,
+    "provinsi_id": 10,
+    "kabupaten_name": "Jepara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "JPR",
+    "jnt_name": "JEPARA"
+  },
+  {
+    "id": 164,
+    "provinsi_id": 11,
+    "kabupaten_name": "Jombang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "JBG",
+    "jnt_name": "JOMBANG"
+  },
+  {
+    "id": 165,
+    "provinsi_id": 25,
+    "kabupaten_name": "Kaimana",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "KAI",
+    "jnt_name": "KAIMANA"
+  },
+  {
+    "id": 166,
+    "provinsi_id": 26,
+    "kabupaten_name": "Kampar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:00.000000Z",
+    "jnt_code": "BNG",
+    "jnt_name": "KAMPAR"
+  },
+  {
+    "id": 167,
+    "provinsi_id": 14,
+    "kabupaten_name": "Kapuas",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "KKS",
+    "jnt_name": "KUALA KAPUAS"
+  },
+  {
+    "id": 168,
+    "provinsi_id": 12,
+    "kabupaten_name": "Kapuas Hulu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "PSU",
+    "jnt_name": "KAPUAS HULU"
+  },
+  {
+    "id": 169,
+    "provinsi_id": 10,
+    "kabupaten_name": "Karanganyar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "KAA",
+    "jnt_name": "KARANG ANYAR"
+  },
+  {
+    "id": 170,
+    "provinsi_id": 1,
+    "kabupaten_name": "Karangasem",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "APU",
+    "jnt_name": "KARANG ASEM"
+  },
+  {
+    "id": 171,
+    "provinsi_id": 9,
+    "kabupaten_name": "Karawang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "KRW",
+    "jnt_name": "KARAWANG"
+  },
+  {
+    "id": 172,
+    "provinsi_id": 17,
+    "kabupaten_name": "Karimun",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "TJU",
+    "jnt_name": "KARIMUN"
+  },
+  {
+    "id": 173,
+    "provinsi_id": 34,
+    "kabupaten_name": "Karo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "KJE",
+    "jnt_name": "KARO"
+  },
+  {
+    "id": 174,
+    "provinsi_id": 14,
+    "kabupaten_name": "Katingan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "KSG",
+    "jnt_name": "KATINGAN"
+  },
+  {
+    "id": 175,
+    "provinsi_id": 4,
+    "kabupaten_name": "Kaur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:01.000000Z",
+    "jnt_code": "KAW",
+    "jnt_name": "KAUR"
+  },
+  {
+    "id": 176,
+    "provinsi_id": 12,
+    "kabupaten_name": "Kayong Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "TLM",
+    "jnt_name": "KAYONG UTARA"
+  },
+  {
+    "id": 177,
+    "provinsi_id": 10,
+    "kabupaten_name": "Kebumen",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "KBM",
+    "jnt_name": "KEBUMEN"
+  },
+  {
+    "id": 178,
+    "provinsi_id": 11,
+    "kabupaten_name": "Kediri",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "KDR",
+    "jnt_name": "KEDIRI"
+  },
+  {
+    "id": 179,
+    "provinsi_id": 11,
+    "kabupaten_name": "Kediri",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:06.000000Z",
+    "jnt_code": "KDR",
+    "jnt_name": "KEDIRI"
+  },
+  {
+    "id": 180,
+    "provinsi_id": 24,
+    "kabupaten_name": "Keerom",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "WRS",
+    "jnt_name": "KEEROM"
+  },
+  {
+    "id": 181,
+    "provinsi_id": 10,
+    "kabupaten_name": "Kendal",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "KNL",
+    "jnt_name": "KENDAL"
+  },
+  {
+    "id": 182,
+    "provinsi_id": 30,
+    "kabupaten_name": "Kendari",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "KDI",
+    "jnt_name": "KENDARI"
+  },
+  {
+    "id": 183,
+    "provinsi_id": 4,
+    "kabupaten_name": "Kepahiang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "KPA",
+    "jnt_name": "KEPAHIANG"
+  },
+  {
+    "id": 184,
+    "provinsi_id": 17,
+    "kabupaten_name": "Kepulauan Anambas",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "ANA",
+    "jnt_name": "ANAMBAS"
+  },
+  {
+    "id": 185,
+    "provinsi_id": 19,
+    "kabupaten_name": "Kepulauan Aru",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "DOB",
+    "jnt_name": "KEPULAUAN ARU"
+  },
+  {
+    "id": 186,
+    "provinsi_id": 32,
+    "kabupaten_name": "Kepulauan Mentawai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:02.000000Z",
+    "jnt_code": "KEP",
+    "jnt_name": "MENTAWAI"
+  },
+  {
+    "id": 187,
+    "provinsi_id": 26,
+    "kabupaten_name": "Kepulauan Meranti",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "STP",
+    "jnt_name": "KEPULAUAN MERANTI"
+  },
+  {
+    "id": 188,
+    "provinsi_id": 31,
+    "kabupaten_name": "Kepulauan Sangihe",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "THA",
+    "jnt_name": "TAHUNA"
+  },
+  {
+    "id": 189,
+    "provinsi_id": 6,
+    "kabupaten_name": "Kepulauan Seribu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "JKT",
+    "jnt_name": "JAKARTA"
+  },
+  {
+    "id": 190,
+    "provinsi_id": 31,
+    "kabupaten_name": "Kepulauan Siau Tagulandang Biaro (Sitaro)",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "OND",
+    "jnt_name": "KEPULAUAN SIAU"
+  },
+  {
+    "id": 191,
+    "provinsi_id": 20,
+    "kabupaten_name": "Kepulauan Sula",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "BOB",
+    "jnt_name": "KEPULAUAN TALIABU"
+  },
+  {
+    "id": 192,
+    "provinsi_id": 31,
+    "kabupaten_name": "Kepulauan Talaud",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "MEG",
+    "jnt_name": "KEPULAUAN TALAUD"
+  },
+  {
+    "id": 193,
+    "provinsi_id": 24,
+    "kabupaten_name": "Kepulauan Yapen (Yapen Waropen)",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "SEI",
+    "jnt_name": "SERUI"
+  },
+  {
+    "id": 194,
+    "provinsi_id": 8,
+    "kabupaten_name": "Kerinci",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "SIU",
+    "jnt_name": "KERINCI"
+  },
+  {
+    "id": 195,
+    "provinsi_id": 12,
+    "kabupaten_name": "Ketapang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "TTT",
+    "jnt_name": "TUMBANG TITI"
+  },
+  {
+    "id": 196,
+    "provinsi_id": 10,
+    "kabupaten_name": "Klaten",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:03.000000Z",
+    "jnt_code": "KLT",
+    "jnt_name": "KLATEN"
+  },
+  {
+    "id": 197,
+    "provinsi_id": 1,
+    "kabupaten_name": "Klungkung",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "KKL",
+    "jnt_name": "KLUNGKUNG"
+  },
+  {
+    "id": 198,
+    "provinsi_id": 30,
+    "kabupaten_name": "Kolaka",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "KOL",
+    "jnt_name": "KOLAKA"
+  },
+  {
+    "id": 199,
+    "provinsi_id": 30,
+    "kabupaten_name": "Kolaka Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "LAS",
+    "jnt_name": "KOLAKA UTARA"
+  },
+  {
+    "id": 200,
+    "provinsi_id": 30,
+    "kabupaten_name": "Konawe",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "UNH",
+    "jnt_name": "KONAWE"
+  },
+  {
+    "id": 201,
+    "provinsi_id": 30,
+    "kabupaten_name": "Konawe Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "WAG",
+    "jnt_name": "KONAWE SELATAN"
+  },
+  {
+    "id": 202,
+    "provinsi_id": 30,
+    "kabupaten_name": "Konawe Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "WGG",
+    "jnt_name": "KONAWE UTARA"
+  },
+  {
+    "id": 203,
+    "provinsi_id": 13,
+    "kabupaten_name": "Kotabaru",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "KBW",
+    "jnt_name": "KOTABARU"
+  },
+  {
+    "id": 204,
+    "provinsi_id": 31,
+    "kabupaten_name": "Kotamobagu",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "KMB",
+    "jnt_name": "KOTA MOBAGU"
+  },
+  {
+    "id": 205,
+    "provinsi_id": 14,
+    "kabupaten_name": "Kotawaringin Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "PKN",
+    "jnt_name": "PANGKALANBUN"
+  },
+  {
+    "id": 206,
+    "provinsi_id": 14,
+    "kabupaten_name": "Kotawaringin Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "SMQ",
+    "jnt_name": "KOTAWARINGIN TIMUR"
+  },
+  {
+    "id": 207,
+    "provinsi_id": 26,
+    "kabupaten_name": "Kuantan Singingi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:04.000000Z",
+    "jnt_code": "TKK",
+    "jnt_name": "KUATAN SINGINGI"
+  },
+  {
+    "id": 208,
+    "provinsi_id": 12,
+    "kabupaten_name": "Kubu Raya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "KUB",
+    "jnt_name": "KUBURAYA"
+  },
+  {
+    "id": 209,
+    "provinsi_id": 10,
+    "kabupaten_name": "Kudus",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "KDS",
+    "jnt_name": "KUDUS"
+  },
+  {
+    "id": 210,
+    "provinsi_id": 5,
+    "kabupaten_name": "Kulon Progo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "KLP",
+    "jnt_name": "KULON PROGO"
+  },
+  {
+    "id": 211,
+    "provinsi_id": 9,
+    "kabupaten_name": "Kuningan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "KNG",
+    "jnt_name": "KUNINGAN"
+  },
+  {
+    "id": 212,
+    "provinsi_id": 23,
+    "kabupaten_name": "Kupang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "KOE",
+    "jnt_name": "KUPANG"
+  },
+  {
+    "id": 213,
+    "provinsi_id": 23,
+    "kabupaten_name": "Kupang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:07.000000Z",
+    "jnt_code": "KOE",
+    "jnt_name": "KUPANG"
+  },
+  {
+    "id": 214,
+    "provinsi_id": 15,
+    "kabupaten_name": "Kutai Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "SED",
+    "jnt_name": "SENDAWAR"
+  },
+  {
+    "id": 215,
+    "provinsi_id": 15,
+    "kabupaten_name": "Kutai Kartanegara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "TWR",
+    "jnt_name": "TENGGARONG"
+  },
+  {
+    "id": 216,
+    "provinsi_id": 15,
+    "kabupaten_name": "Kutai Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "SGT",
+    "jnt_name": "KUTAI TIMUR"
+  },
+  {
+    "id": 217,
+    "provinsi_id": 34,
+    "kabupaten_name": "Labuhan Batu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:05.000000Z",
+    "jnt_code": "RPT",
+    "jnt_name": "LABUAN BATU"
+  },
+  {
+    "id": 218,
+    "provinsi_id": 34,
+    "kabupaten_name": "Labuhan Batu Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "KPG",
+    "jnt_name": "LABUHAN BATU SELATAN"
+  },
+  {
+    "id": 219,
+    "provinsi_id": 34,
+    "kabupaten_name": "Labuhan Batu Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "AEK",
+    "jnt_name": "LABUHAN BATU UTARA"
+  },
+  {
+    "id": 220,
+    "provinsi_id": 33,
+    "kabupaten_name": "Lahat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "LHT",
+    "jnt_name": "LAHAT"
+  },
+  {
+    "id": 221,
+    "provinsi_id": 14,
+    "kabupaten_name": "Lamandau",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "LAD",
+    "jnt_name": "LAMANDAU"
+  },
+  {
+    "id": 222,
+    "provinsi_id": 11,
+    "kabupaten_name": "Lamongan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "LMG",
+    "jnt_name": "LAMONGAN"
+  },
+  {
+    "id": 223,
+    "provinsi_id": 18,
+    "kabupaten_name": "Lampung Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "LWA",
+    "jnt_name": "LAMPUNG BARAT"
+  },
+  {
+    "id": 224,
+    "provinsi_id": 18,
+    "kabupaten_name": "Lampung Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "BKH",
+    "jnt_name": "LAMPUNG SELATAN"
+  },
+  {
+    "id": 225,
+    "provinsi_id": 18,
+    "kabupaten_name": "Lampung Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "BDR",
+    "jnt_name": "LAMPUNG TENGAH"
+  },
+  {
+    "id": 226,
+    "provinsi_id": 18,
+    "kabupaten_name": "Lampung Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:06.000000Z",
+    "jnt_code": "SKD",
+    "jnt_name": "LAMPUNG TIMUR"
+  },
+  {
+    "id": 227,
+    "provinsi_id": 18,
+    "kabupaten_name": "Lampung Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "KBB",
+    "jnt_name": "LAMPUNG UTARA"
+  },
+  {
+    "id": 228,
+    "provinsi_id": 12,
+    "kabupaten_name": "Landak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "NGG",
+    "jnt_name": "NGABANG"
+  },
+  {
+    "id": 229,
+    "provinsi_id": 34,
+    "kabupaten_name": "Langkat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "PKD",
+    "jnt_name": "LANGKAT"
+  },
+  {
+    "id": 230,
+    "provinsi_id": 21,
+    "kabupaten_name": "Langsa",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "LNX",
+    "jnt_name": "LANGSA"
+  },
+  {
+    "id": 231,
+    "provinsi_id": 24,
+    "kabupaten_name": "Lanny Jaya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "TOM",
+    "jnt_name": "LANNY JAYA"
+  },
+  {
+    "id": 232,
+    "provinsi_id": 3,
+    "kabupaten_name": "Lebak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "RKS",
+    "jnt_name": "LEBAK"
+  },
+  {
+    "id": 233,
+    "provinsi_id": 4,
+    "kabupaten_name": "Lebong",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "LBG",
+    "jnt_name": "LEBONG"
+  },
+  {
+    "id": 234,
+    "provinsi_id": 23,
+    "kabupaten_name": "Lembata",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "LEW",
+    "jnt_name": "LEWOLEBA"
+  },
+  {
+    "id": 235,
+    "provinsi_id": 21,
+    "kabupaten_name": "Lhokseumawe",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "LSW",
+    "jnt_name": "LHOKSEUMAWE"
+  },
+  {
+    "id": 236,
+    "provinsi_id": 32,
+    "kabupaten_name": "Lima Puluh Koto\/Kota",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:07.000000Z",
+    "jnt_code": "LMK",
+    "jnt_name": "LIMAPULUH KOTA"
+  },
+  {
+    "id": 237,
+    "provinsi_id": 17,
+    "kabupaten_name": "Lingga",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "LIN",
+    "jnt_name": "LINGGA"
+  },
+  {
+    "id": 238,
+    "provinsi_id": 22,
+    "kabupaten_name": "Lombok Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "GER",
+    "jnt_name": "LOMBOK BARAT"
+  },
+  {
+    "id": 239,
+    "provinsi_id": 22,
+    "kabupaten_name": "Lombok Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "PYW",
+    "jnt_name": "LOMBOK"
+  },
+  {
+    "id": 240,
+    "provinsi_id": 22,
+    "kabupaten_name": "Lombok Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "SLO",
+    "jnt_name": "SELONG"
+  },
+  {
+    "id": 241,
+    "provinsi_id": 22,
+    "kabupaten_name": "Lombok Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "TAN",
+    "jnt_name": "LOMBOK UTARA"
+  },
+  {
+    "id": 242,
+    "provinsi_id": 33,
+    "kabupaten_name": "Lubuk Linggau",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "LLG",
+    "jnt_name": "LUBUK LINGGAU"
+  },
+  {
+    "id": 243,
+    "provinsi_id": 11,
+    "kabupaten_name": "Lumajang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "LMJ",
+    "jnt_name": "LUMAJANG"
+  },
+  {
+    "id": 244,
+    "provinsi_id": 28,
+    "kabupaten_name": "Luwu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "BEL",
+    "jnt_name": "LUWU"
+  },
+  {
+    "id": 245,
+    "provinsi_id": 28,
+    "kabupaten_name": "Luwu Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "MAL",
+    "jnt_name": "MALILI"
+  },
+  {
+    "id": 246,
+    "provinsi_id": 28,
+    "kabupaten_name": "Luwu Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:08.000000Z",
+    "jnt_code": "MSB",
+    "jnt_name": "MASAMBA"
+  },
+  {
+    "id": 247,
+    "provinsi_id": 11,
+    "kabupaten_name": "Madiun",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "MDN",
+    "jnt_name": "MADIUN"
+  },
+  {
+    "id": 248,
+    "provinsi_id": 11,
+    "kabupaten_name": "Madiun",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:08.000000Z",
+    "jnt_code": "MDN",
+    "jnt_name": "MADIUN"
+  },
+  {
+    "id": 249,
+    "provinsi_id": 10,
+    "kabupaten_name": "Magelang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "MGL",
+    "jnt_name": "MAGELANG"
+  },
+  {
+    "id": 250,
+    "provinsi_id": 10,
+    "kabupaten_name": "Magelang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:08.000000Z",
+    "jnt_code": "MGL",
+    "jnt_name": "MAGELANG"
+  },
+  {
+    "id": 251,
+    "provinsi_id": 11,
+    "kabupaten_name": "Magetan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "MTX",
+    "jnt_name": "MAGETAN"
+  },
+  {
+    "id": 252,
+    "provinsi_id": 9,
+    "kabupaten_name": "Majalengka",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "MJA",
+    "jnt_name": "MAJALENGKA"
+  },
+  {
+    "id": 253,
+    "provinsi_id": 27,
+    "kabupaten_name": "Majene",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "MJN",
+    "jnt_name": "MAJENE"
+  },
+  {
+    "id": 254,
+    "provinsi_id": 28,
+    "kabupaten_name": "Makassar",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "UPG",
+    "jnt_name": "MAKASSAR"
+  },
+  {
+    "id": 255,
+    "provinsi_id": 11,
+    "kabupaten_name": "Malang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "MLG",
+    "jnt_name": "MALANG"
+  },
+  {
+    "id": 256,
+    "provinsi_id": 11,
+    "kabupaten_name": "Malang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:09.000000Z",
+    "jnt_code": "MLG",
+    "jnt_name": "MALANG"
+  },
+  {
+    "id": 257,
+    "provinsi_id": 16,
+    "kabupaten_name": "Malinau",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:09.000000Z",
+    "jnt_code": "MWL",
+    "jnt_name": "MALINAU"
+  },
+  {
+    "id": 258,
+    "provinsi_id": 19,
+    "kabupaten_name": "Maluku Barat Daya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "TIA",
+    "jnt_name": "MALUKU BARAT DAYA"
+  },
+  {
+    "id": 259,
+    "provinsi_id": 19,
+    "kabupaten_name": "Maluku Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "MSI",
+    "jnt_name": "MALUKU TENGAH"
+  },
+  {
+    "id": 260,
+    "provinsi_id": 19,
+    "kabupaten_name": "Maluku Tenggara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "LGU",
+    "jnt_name": "MALUKU TENGGARA"
+  },
+  {
+    "id": 261,
+    "provinsi_id": 19,
+    "kabupaten_name": "Maluku Tenggara Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "SML",
+    "jnt_name": "MALUKU TENGGARA BARAT"
+  },
+  {
+    "id": 262,
+    "provinsi_id": 27,
+    "kabupaten_name": "Mamasa",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "PMA",
+    "jnt_name": "MAMASA"
+  },
+  {
+    "id": 263,
+    "provinsi_id": 24,
+    "kabupaten_name": "Mamberamo Raya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "MAM",
+    "jnt_name": "MAMBERAMO RAYA"
+  },
+  {
+    "id": 264,
+    "provinsi_id": 24,
+    "kabupaten_name": "Mamberamo Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "KBK",
+    "jnt_name": "MAMBERAMO TENGAH"
+  },
+  {
+    "id": 265,
+    "provinsi_id": 27,
+    "kabupaten_name": "Mamuju",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "TBD",
+    "jnt_name": "TOBADAK"
+  },
+  {
+    "id": 266,
+    "provinsi_id": 27,
+    "kabupaten_name": "Mamuju Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "PAK",
+    "jnt_name": "PASANG KAYU"
+  },
+  {
+    "id": 267,
+    "provinsi_id": 31,
+    "kabupaten_name": "Manado",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "MDC",
+    "jnt_name": "MANADO"
+  },
+  {
+    "id": 268,
+    "provinsi_id": 34,
+    "kabupaten_name": "Mandailing Natal",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:10.000000Z",
+    "jnt_code": "PYY",
+    "jnt_name": "MANDAILING NATAL"
+  },
+  {
+    "id": 269,
+    "provinsi_id": 23,
+    "kabupaten_name": "Manggarai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "RTG",
+    "jnt_name": "RUTENG"
+  },
+  {
+    "id": 270,
+    "provinsi_id": 23,
+    "kabupaten_name": "Manggarai Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "LAB",
+    "jnt_name": "LABUAN BAJO"
+  },
+  {
+    "id": 271,
+    "provinsi_id": 23,
+    "kabupaten_name": "Manggarai Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "BOR",
+    "jnt_name": "BORONG"
+  },
+  {
+    "id": 272,
+    "provinsi_id": 25,
+    "kabupaten_name": "Manokwari",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "MKW",
+    "jnt_name": "MANOKWARI"
+  },
+  {
+    "id": 273,
+    "provinsi_id": 25,
+    "kabupaten_name": "Manokwari Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "RAN",
+    "jnt_name": "MANOKWARI SELATAN"
+  },
+  {
+    "id": 274,
+    "provinsi_id": 24,
+    "kabupaten_name": "Mappi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "MAP",
+    "jnt_name": "MAPPI"
+  },
+  {
+    "id": 275,
+    "provinsi_id": 28,
+    "kabupaten_name": "Maros",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "MAR",
+    "jnt_name": "MAROS"
+  },
+  {
+    "id": 276,
+    "provinsi_id": 22,
+    "kabupaten_name": "Mataram",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "AMI",
+    "jnt_name": "MATARAM"
+  },
+  {
+    "id": 277,
+    "provinsi_id": 25,
+    "kabupaten_name": "Maybrat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "KUM",
+    "jnt_name": "MAYBRAT"
+  },
+  {
+    "id": 278,
+    "provinsi_id": 34,
+    "kabupaten_name": "Medan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "MES",
+    "jnt_name": "MEDAN"
+  },
+  {
+    "id": 279,
+    "provinsi_id": 12,
+    "kabupaten_name": "Melawi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:11.000000Z",
+    "jnt_code": "MLW",
+    "jnt_name": "MELAWI"
+  },
+  {
+    "id": 280,
+    "provinsi_id": 8,
+    "kabupaten_name": "Merangin",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "BAO",
+    "jnt_name": "BANGKO"
+  },
+  {
+    "id": 281,
+    "provinsi_id": 24,
+    "kabupaten_name": "Merauke",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "MKQ",
+    "jnt_name": "MERAUKE"
+  },
+  {
+    "id": 282,
+    "provinsi_id": 18,
+    "kabupaten_name": "Mesuji",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "MSJ",
+    "jnt_name": "MESUJI"
+  },
+  {
+    "id": 283,
+    "provinsi_id": 18,
+    "kabupaten_name": "Metro",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "MTR",
+    "jnt_name": "METRO"
+  },
+  {
+    "id": 284,
+    "provinsi_id": 24,
+    "kabupaten_name": "Mimika",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "TIM",
+    "jnt_name": "MIMIKA"
+  },
+  {
+    "id": 285,
+    "provinsi_id": 31,
+    "kabupaten_name": "Minahasa",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "TDO",
+    "jnt_name": "MINAHASA"
+  },
+  {
+    "id": 286,
+    "provinsi_id": 31,
+    "kabupaten_name": "Minahasa Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "AMR",
+    "jnt_name": "MINAHASA SELATAN"
+  },
+  {
+    "id": 287,
+    "provinsi_id": 31,
+    "kabupaten_name": "Minahasa Tenggara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "RTH",
+    "jnt_name": "MINAHASA TENGGARA"
+  },
+  {
+    "id": 288,
+    "provinsi_id": 31,
+    "kabupaten_name": "Minahasa Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:12.000000Z",
+    "jnt_code": "AID",
+    "jnt_name": "MINAHASA UTARA"
+  },
+  {
+    "id": 289,
+    "provinsi_id": 11,
+    "kabupaten_name": "Mojokerto",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "MJK",
+    "jnt_name": "MOJOKERTO"
+  },
+  {
+    "id": 290,
+    "provinsi_id": 11,
+    "kabupaten_name": "Mojokerto",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:10.000000Z",
+    "jnt_code": "MJK",
+    "jnt_name": "MOJOKERTO"
+  },
+  {
+    "id": 291,
+    "provinsi_id": 29,
+    "kabupaten_name": "Morowali",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "BUG",
+    "jnt_name": "MOROWALI"
+  },
+  {
+    "id": 292,
+    "provinsi_id": 33,
+    "kabupaten_name": "Muara Enim",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "MRN",
+    "jnt_name": "MUARA ENIM"
+  },
+  {
+    "id": 293,
+    "provinsi_id": 8,
+    "kabupaten_name": "Muaro Jambi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "SNT",
+    "jnt_name": "MUARO JAMBI"
+  },
+  {
+    "id": 294,
+    "provinsi_id": 4,
+    "kabupaten_name": "Muko Muko",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "MWO",
+    "jnt_name": "MUKO-MUKO"
+  },
+  {
+    "id": 295,
+    "provinsi_id": 30,
+    "kabupaten_name": "Muna",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "RAQ",
+    "jnt_name": "MUNA"
+  },
+  {
+    "id": 296,
+    "provinsi_id": 14,
+    "kabupaten_name": "Murung Raya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "PUK",
+    "jnt_name": "MURUNG RAYA"
+  },
+  {
+    "id": 297,
+    "provinsi_id": 33,
+    "kabupaten_name": "Musi Banyuasin",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:13.000000Z",
+    "jnt_code": "SKY",
+    "jnt_name": "SEKAYU"
+  },
+  {
+    "id": 298,
+    "provinsi_id": 33,
+    "kabupaten_name": "Musi Rawas",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "MRU",
+    "jnt_name": "MUSI RAWAS UTARA"
+  },
+  {
+    "id": 299,
+    "provinsi_id": 24,
+    "kabupaten_name": "Nabire",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "NBX",
+    "jnt_name": "NABIRE"
+  },
+  {
+    "id": 300,
+    "provinsi_id": 21,
+    "kabupaten_name": "Nagan Raya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "SBS",
+    "jnt_name": "NAGAN RAYA"
+  },
+  {
+    "id": 301,
+    "provinsi_id": 23,
+    "kabupaten_name": "Nagekeo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "MBY",
+    "jnt_name": "MBAY"
+  },
+  {
+    "id": 302,
+    "provinsi_id": 17,
+    "kabupaten_name": "Natuna",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "RAI",
+    "jnt_name": "NATUNA"
+  },
+  {
+    "id": 303,
+    "provinsi_id": 24,
+    "kabupaten_name": "Nduga",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "KYM",
+    "jnt_name": "NDUGA"
+  },
+  {
+    "id": 304,
+    "provinsi_id": 23,
+    "kabupaten_name": "Ngada",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "BJW",
+    "jnt_name": "BAJAWA"
+  },
+  {
+    "id": 305,
+    "provinsi_id": 11,
+    "kabupaten_name": "Nganjuk",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:14.000000Z",
+    "jnt_code": "NGK",
+    "jnt_name": "NGANJUK"
+  },
+  {
+    "id": 306,
+    "provinsi_id": 11,
+    "kabupaten_name": "Ngawi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "NIW",
+    "jnt_name": "NGAWI"
+  },
+  {
+    "id": 307,
+    "provinsi_id": 34,
+    "kabupaten_name": "Nias",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "LHM",
+    "jnt_name": "NIAS BARAT"
+  },
+  {
+    "id": 308,
+    "provinsi_id": 34,
+    "kabupaten_name": "Nias Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "LHM",
+    "jnt_name": "NIAS BARAT"
+  },
+  {
+    "id": 309,
+    "provinsi_id": 34,
+    "kabupaten_name": "Nias Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "TED",
+    "jnt_name": "NIAS SELATAN"
+  },
+  {
+    "id": 310,
+    "provinsi_id": 34,
+    "kabupaten_name": "Nias Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "LOT",
+    "jnt_name": "NIAS UTARA"
+  },
+  {
+    "id": 311,
+    "provinsi_id": 16,
+    "kabupaten_name": "Nunukan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "NNX",
+    "jnt_name": "NUNUKAN"
+  },
+  {
+    "id": 312,
+    "provinsi_id": 33,
+    "kabupaten_name": "Ogan Ilir",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "INL",
+    "jnt_name": "OGAN ILIR"
+  },
+  {
+    "id": 313,
+    "provinsi_id": 33,
+    "kabupaten_name": "Ogan Komering Ilir",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "KYT",
+    "jnt_name": "KAYU AGUNG"
+  },
+  {
+    "id": 314,
+    "provinsi_id": 33,
+    "kabupaten_name": "Ogan Komering Ulu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:15.000000Z",
+    "jnt_code": "BJT",
+    "jnt_name": "BATURAJA"
+  },
+  {
+    "id": 315,
+    "provinsi_id": 33,
+    "kabupaten_name": "Ogan Komering Ulu Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "MUA",
+    "jnt_name": "MUARA DUA"
+  },
+  {
+    "id": 316,
+    "provinsi_id": 33,
+    "kabupaten_name": "Ogan Komering Ulu Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "MAT",
+    "jnt_name": "OGAN KOMERING ULU TIMUR"
+  },
+  {
+    "id": 317,
+    "provinsi_id": 11,
+    "kabupaten_name": "Pacitan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "PCI",
+    "jnt_name": "PACITAN"
+  },
+  {
+    "id": 318,
+    "provinsi_id": 32,
+    "kabupaten_name": "Padang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "PDG",
+    "jnt_name": "PADANG"
+  },
+  {
+    "id": 319,
+    "provinsi_id": 34,
+    "kabupaten_name": "Padang Lawas",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "SBH",
+    "jnt_name": "PADANG LAWAS"
+  },
+  {
+    "id": 320,
+    "provinsi_id": 34,
+    "kabupaten_name": "Padang Lawas Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "GNT",
+    "jnt_name": "PADANG LAWAS UTARA"
+  },
+  {
+    "id": 321,
+    "provinsi_id": 32,
+    "kabupaten_name": "Padang Panjang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "PPJ",
+    "jnt_name": "PADANG PANJANG"
+  },
+  {
+    "id": 322,
+    "provinsi_id": 32,
+    "kabupaten_name": "Padang Pariaman",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "PPR",
+    "jnt_name": "PADANG PARIAMAN"
+  },
+  {
+    "id": 323,
+    "provinsi_id": 34,
+    "kabupaten_name": "Padang Sidempuan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:16.000000Z",
+    "jnt_code": "PDS",
+    "jnt_name": "TAPANULI SELATAN"
+  },
+  {
+    "id": 324,
+    "provinsi_id": 33,
+    "kabupaten_name": "Pagar Alam",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PAM",
+    "jnt_name": "PAGAR ALAM"
+  },
+  {
+    "id": 325,
+    "provinsi_id": 34,
+    "kabupaten_name": "Pakpak Bharat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "SLK",
+    "jnt_name": "PAKPAK BHARAT"
+  },
+  {
+    "id": 326,
+    "provinsi_id": 14,
+    "kabupaten_name": "Palangka Raya",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PKY",
+    "jnt_name": "PALANGKARAYA"
+  },
+  {
+    "id": 327,
+    "provinsi_id": 33,
+    "kabupaten_name": "Palembang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PLM",
+    "jnt_name": "PALEMBANG"
+  },
+  {
+    "id": 328,
+    "provinsi_id": 28,
+    "kabupaten_name": "Palopo",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PLP",
+    "jnt_name": "PALOPO"
+  },
+  {
+    "id": 329,
+    "provinsi_id": 29,
+    "kabupaten_name": "Palu",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PLW",
+    "jnt_name": "PALU"
+  },
+  {
+    "id": 330,
+    "provinsi_id": 11,
+    "kabupaten_name": "Pamekasan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PKS",
+    "jnt_name": "PAMEKASAN"
+  },
+  {
+    "id": 331,
+    "provinsi_id": 3,
+    "kabupaten_name": "Pandeglang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PGL",
+    "jnt_name": "PANDEGLANG"
+  },
+  {
+    "id": 332,
+    "provinsi_id": 9,
+    "kabupaten_name": "Pangandaran",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PGR",
+    "jnt_name": "PANGANDARAN"
+  },
+  {
+    "id": 333,
+    "provinsi_id": 28,
+    "kabupaten_name": "Pangkajene Kepulauan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:17.000000Z",
+    "jnt_code": "PAJ",
+    "jnt_name": "PANGKAJENE"
+  },
+  {
+    "id": 334,
+    "provinsi_id": 2,
+    "kabupaten_name": "Pangkal Pinang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PGK",
+    "jnt_name": "PANGKAL PINANG"
+  },
+  {
+    "id": 335,
+    "provinsi_id": 24,
+    "kabupaten_name": "Paniai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PAN",
+    "jnt_name": "PANIAI"
+  },
+  {
+    "id": 336,
+    "provinsi_id": 28,
+    "kabupaten_name": "Parepare",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PPE",
+    "jnt_name": "PARE PARE"
+  },
+  {
+    "id": 337,
+    "provinsi_id": 32,
+    "kabupaten_name": "Pariaman",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PMM",
+    "jnt_name": "PARIAMAN"
+  },
+  {
+    "id": 338,
+    "provinsi_id": 29,
+    "kabupaten_name": "Parigi Moutong",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PII",
+    "jnt_name": "PARIGI MOUTONG"
+  },
+  {
+    "id": 339,
+    "provinsi_id": 32,
+    "kabupaten_name": "Pasaman",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "LSG",
+    "jnt_name": "PASAMAN"
+  },
+  {
+    "id": 340,
+    "provinsi_id": 32,
+    "kabupaten_name": "Pasaman Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PSB",
+    "jnt_name": "PASAMAN BARAT"
+  },
+  {
+    "id": 341,
+    "provinsi_id": 15,
+    "kabupaten_name": "Paser",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "TNB",
+    "jnt_name": "PASER"
+  },
+  {
+    "id": 342,
+    "provinsi_id": 11,
+    "kabupaten_name": "Pasuruan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PSR",
+    "jnt_name": "PASURUAN"
+  },
+  {
+    "id": 343,
+    "provinsi_id": 11,
+    "kabupaten_name": "Pasuruan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:11.000000Z",
+    "jnt_code": "PSR",
+    "jnt_name": "PASURUAN"
+  },
+  {
+    "id": 344,
+    "provinsi_id": 10,
+    "kabupaten_name": "Pati",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:18.000000Z",
+    "jnt_code": "PTI",
+    "jnt_name": "PATI"
+  },
+  {
+    "id": 345,
+    "provinsi_id": 32,
+    "kabupaten_name": "Payakumbuh",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:19.000000Z",
+    "jnt_code": "PYK",
+    "jnt_name": "PAYAKUMBUH"
+  },
+  {
+    "id": 346,
+    "provinsi_id": 25,
+    "kabupaten_name": "Pegunungan Arfak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:19.000000Z",
+    "jnt_code": "AGG",
+    "jnt_name": "ARFAK"
+  },
+  {
+    "id": 347,
+    "provinsi_id": 24,
+    "kabupaten_name": "Pegunungan Bintang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:19.000000Z",
+    "jnt_code": "OKS",
+    "jnt_name": "PEGUNUNGAN BINTANG"
+  },
+  {
+    "id": 348,
+    "provinsi_id": 10,
+    "kabupaten_name": "Pekalongan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:19.000000Z",
+    "jnt_code": "PKL",
+    "jnt_name": "PEKALONGAN"
+  },
+  {
+    "id": 349,
+    "provinsi_id": 10,
+    "kabupaten_name": "Pekalongan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:12.000000Z",
+    "jnt_code": "PKL",
+    "jnt_name": "PEKALONGAN"
+  },
+  {
+    "id": 350,
+    "provinsi_id": 26,
+    "kabupaten_name": "Pekanbaru",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:19.000000Z",
+    "jnt_code": "PKU",
+    "jnt_name": "PEKANBARU"
+  },
+  {
+    "id": 351,
+    "provinsi_id": 26,
+    "kabupaten_name": "Pelalawan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "PKC",
+    "jnt_name": "PELALAWAN"
+  },
+  {
+    "id": 352,
+    "provinsi_id": 10,
+    "kabupaten_name": "Pemalang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "PML",
+    "jnt_name": "PEMALANG"
+  },
+  {
+    "id": 353,
+    "provinsi_id": 34,
+    "kabupaten_name": "Pematang Siantar",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "PMS",
+    "jnt_name": "PEMATANG SIANTAR"
+  },
+  {
+    "id": 354,
+    "provinsi_id": 15,
+    "kabupaten_name": "Penajam Paser Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "PNJ",
+    "jnt_name": "PENAJAM"
+  },
+  {
+    "id": 355,
+    "provinsi_id": 18,
+    "kabupaten_name": "Pesawaran",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "GTT",
+    "jnt_name": "PESAWARAN"
+  },
+  {
+    "id": 356,
+    "provinsi_id": 18,
+    "kabupaten_name": "Pesisir Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "KUR",
+    "jnt_name": "PESISIR BARAT"
+  },
+  {
+    "id": 357,
+    "provinsi_id": 32,
+    "kabupaten_name": "Pesisir Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "PNN",
+    "jnt_name": "PESISIR SELATAN"
+  },
+  {
+    "id": 358,
+    "provinsi_id": 21,
+    "kabupaten_name": "Pidie",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "SGL",
+    "jnt_name": "SIGLI"
+  },
+  {
+    "id": 359,
+    "provinsi_id": 21,
+    "kabupaten_name": "Pidie Jaya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "MRD",
+    "jnt_name": "MEUREUDU"
+  },
+  {
+    "id": 360,
+    "provinsi_id": 28,
+    "kabupaten_name": "Pinrang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:20.000000Z",
+    "jnt_code": "PRR",
+    "jnt_name": "PINRANG"
+  },
+  {
+    "id": 361,
+    "provinsi_id": 7,
+    "kabupaten_name": "Pohuwato",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:21.000000Z",
+    "jnt_code": "MRS",
+    "jnt_name": "MARISA"
+  },
+  {
+    "id": 362,
+    "provinsi_id": 27,
+    "kabupaten_name": "Polewali Mandar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:21.000000Z",
+    "jnt_code": "PWX",
+    "jnt_name": "POLEWALI"
+  },
+  {
+    "id": 363,
+    "provinsi_id": 11,
+    "kabupaten_name": "Ponorogo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:21.000000Z",
+    "jnt_code": "PNO",
+    "jnt_name": "PONOROGO"
+  },
+  {
+    "id": 364,
+    "provinsi_id": 12,
+    "kabupaten_name": "Pontianak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:21.000000Z",
+    "jnt_code": "PNK",
+    "jnt_name": "PONTIANAK"
+  },
+  {
+    "id": 365,
+    "provinsi_id": 12,
+    "kabupaten_name": "Pontianak",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:12.000000Z",
+    "jnt_code": "PNK",
+    "jnt_name": "PONTIANAK"
+  },
+  {
+    "id": 366,
+    "provinsi_id": 29,
+    "kabupaten_name": "Poso",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:21.000000Z",
+    "jnt_code": "PSJ",
+    "jnt_name": "POSO"
+  },
+  {
+    "id": 367,
+    "provinsi_id": 33,
+    "kabupaten_name": "Prabumulih",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:21.000000Z",
+    "jnt_code": "PMH",
+    "jnt_name": "PRABUMULIH"
+  },
+  {
+    "id": 368,
+    "provinsi_id": 18,
+    "kabupaten_name": "Pringsewu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:21.000000Z",
+    "jnt_code": "PSW",
+    "jnt_name": "PRINGSEWU"
+  },
+  {
+    "id": 369,
+    "provinsi_id": 11,
+    "kabupaten_name": "Probolinggo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "PRO",
+    "jnt_name": "PROBOLINGGO"
+  },
+  {
+    "id": 370,
+    "provinsi_id": 11,
+    "kabupaten_name": "Probolinggo",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:12.000000Z",
+    "jnt_code": "PRO",
+    "jnt_name": "PROBOLINGGO"
+  },
+  {
+    "id": 371,
+    "provinsi_id": 14,
+    "kabupaten_name": "Pulang Pisau",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "PUP",
+    "jnt_name": "PULANG PISAU"
+  },
+  {
+    "id": 372,
+    "provinsi_id": 20,
+    "kabupaten_name": "Pulau Morotai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "DAR",
+    "jnt_name": "PULAU MOROTAI"
+  },
+  {
+    "id": 373,
+    "provinsi_id": 24,
+    "kabupaten_name": "Puncak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "ILA",
+    "jnt_name": "PUNCAK"
+  },
+  {
+    "id": 374,
+    "provinsi_id": 24,
+    "kabupaten_name": "Puncak Jaya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "MUL",
+    "jnt_name": "PUNCAK JAYA"
+  },
+  {
+    "id": 375,
+    "provinsi_id": 10,
+    "kabupaten_name": "Purbalingga",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "PUR",
+    "jnt_name": "PURBALINGGA"
+  },
+  {
+    "id": 376,
+    "provinsi_id": 9,
+    "kabupaten_name": "Purwakarta",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "PWK",
+    "jnt_name": "PURWAKARTA"
+  },
+  {
+    "id": 377,
+    "provinsi_id": 10,
+    "kabupaten_name": "Purworejo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "PWJ",
+    "jnt_name": "PURWOREJO"
+  },
+  {
+    "id": 378,
+    "provinsi_id": 25,
+    "kabupaten_name": "Raja Ampat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "WAS",
+    "jnt_name": "RAJA AMPAT"
+  },
+  {
+    "id": 379,
+    "provinsi_id": 4,
+    "kabupaten_name": "Rejang Lebong",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:22.000000Z",
+    "jnt_code": "CRP",
+    "jnt_name": "REJANG LEBONG"
+  },
+  {
+    "id": 380,
+    "provinsi_id": 10,
+    "kabupaten_name": "Rembang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "RMB",
+    "jnt_name": "REMBANG"
+  },
+  {
+    "id": 381,
+    "provinsi_id": 26,
+    "kabupaten_name": "Rokan Hilir",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "BAS",
+    "jnt_name": "ROKAN HILIR"
+  },
+  {
+    "id": 382,
+    "provinsi_id": 26,
+    "kabupaten_name": "Rokan Hulu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "PAP",
+    "jnt_name": "ROKAN HULU"
+  },
+  {
+    "id": 383,
+    "provinsi_id": 23,
+    "kabupaten_name": "Rote Ndao",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "BAA",
+    "jnt_name": "BAA"
+  },
+  {
+    "id": 384,
+    "provinsi_id": 21,
+    "kabupaten_name": "Sabang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "SAB",
+    "jnt_name": "SABANG"
+  },
+  {
+    "id": 385,
+    "provinsi_id": 23,
+    "kabupaten_name": "Sabu Raijua",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "SBA",
+    "jnt_name": "SABU RAIJUA"
+  },
+  {
+    "id": 386,
+    "provinsi_id": 10,
+    "kabupaten_name": "Salatiga",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "SLT",
+    "jnt_name": "SALATIGA"
+  },
+  {
+    "id": 387,
+    "provinsi_id": 15,
+    "kabupaten_name": "Samarinda",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "SRI",
+    "jnt_name": "SAMARINDA"
+  },
+  {
+    "id": 388,
+    "provinsi_id": 12,
+    "kabupaten_name": "Sambas",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:23.000000Z",
+    "jnt_code": "SAS",
+    "jnt_name": "SAMBAS"
+  },
+  {
+    "id": 389,
+    "provinsi_id": 34,
+    "kabupaten_name": "Samosir",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "PNG",
+    "jnt_name": "SAMOSIR"
+  },
+  {
+    "id": 390,
+    "provinsi_id": 11,
+    "kabupaten_name": "Sampang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "SPG",
+    "jnt_name": "SAMPANG"
+  },
+  {
+    "id": 391,
+    "provinsi_id": 12,
+    "kabupaten_name": "Sanggau",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "SAG",
+    "jnt_name": "SANGGAU"
+  },
+  {
+    "id": 392,
+    "provinsi_id": 24,
+    "kabupaten_name": "Sarmi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "SAM",
+    "jnt_name": "SARMI"
+  },
+  {
+    "id": 393,
+    "provinsi_id": 8,
+    "kabupaten_name": "Sarolangun",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "SLN",
+    "jnt_name": "SAROLANGUN"
+  },
+  {
+    "id": 394,
+    "provinsi_id": 32,
+    "kabupaten_name": "Sawah Lunto",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "SLU",
+    "jnt_name": "SAWAH LUNTO"
+  },
+  {
+    "id": 395,
+    "provinsi_id": 12,
+    "kabupaten_name": "Sekadau",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "SKH",
+    "jnt_name": "SEKADAU"
+  },
+  {
+    "id": 396,
+    "provinsi_id": 28,
+    "kabupaten_name": "Selayar (Kepulauan Selayar)",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "BEN",
+    "jnt_name": "SELAYAR"
+  },
+  {
+    "id": 397,
+    "provinsi_id": 4,
+    "kabupaten_name": "Seluma",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:24.000000Z",
+    "jnt_code": "TAS",
+    "jnt_name": "SELUMA"
+  },
+  {
+    "id": 398,
+    "provinsi_id": 10,
+    "kabupaten_name": "Semarang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:25.000000Z",
+    "jnt_code": "SRG",
+    "jnt_name": "SEMARANG"
+  },
+  {
+    "id": 399,
+    "provinsi_id": 10,
+    "kabupaten_name": "Semarang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:13.000000Z",
+    "jnt_code": "SRG",
+    "jnt_name": "SEMARANG"
+  },
+  {
+    "id": 400,
+    "provinsi_id": 19,
+    "kabupaten_name": "Seram Bagian Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:25.000000Z",
+    "jnt_code": "PRU",
+    "jnt_name": "SERAM BAGIAN BARAT"
+  },
+  {
+    "id": 401,
+    "provinsi_id": 19,
+    "kabupaten_name": "Seram Bagian Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:25.000000Z",
+    "jnt_code": "BUL",
+    "jnt_name": "SERAM BAGIAN TIMUR"
+  },
+  {
+    "id": 402,
+    "provinsi_id": 3,
+    "kabupaten_name": "Serang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:25.000000Z",
+    "jnt_code": "SEG",
+    "jnt_name": "SERANG"
+  },
+  {
+    "id": 403,
+    "provinsi_id": 3,
+    "kabupaten_name": "Serang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:14.000000Z",
+    "jnt_code": "SEG",
+    "jnt_name": "SERANG"
+  },
+  {
+    "id": 404,
+    "provinsi_id": 34,
+    "kabupaten_name": "Serdang Bedagai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:25.000000Z",
+    "jnt_code": "SER",
+    "jnt_name": "SERDANG BEDAGAI"
+  },
+  {
+    "id": 405,
+    "provinsi_id": 14,
+    "kabupaten_name": "Seruyan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "KUP",
+    "jnt_name": "KUALA PEMBUANG"
+  },
+  {
+    "id": 406,
+    "provinsi_id": 26,
+    "kabupaten_name": "Siak",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "SII",
+    "jnt_name": "SIAK"
+  },
+  {
+    "id": 407,
+    "provinsi_id": 34,
+    "kabupaten_name": "Sibolga",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "SOB",
+    "jnt_name": "SIBOLGA"
+  },
+  {
+    "id": 408,
+    "provinsi_id": 28,
+    "kabupaten_name": "Sidenreng Rappang\/Rapang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "SDR",
+    "jnt_name": "SIDENRENG RAPANG"
+  },
+  {
+    "id": 409,
+    "provinsi_id": 11,
+    "kabupaten_name": "Sidoarjo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "SDA",
+    "jnt_name": "SIDOARJO"
+  },
+  {
+    "id": 410,
+    "provinsi_id": 29,
+    "kabupaten_name": "Sigi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "SIG",
+    "jnt_name": "SIGI"
+  },
+  {
+    "id": 411,
+    "provinsi_id": 32,
+    "kabupaten_name": "Sijunjung (Sawah Lunto Sijunjung)",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "SJJ",
+    "jnt_name": "SIJUNJUNG"
+  },
+  {
+    "id": 412,
+    "provinsi_id": 23,
+    "kabupaten_name": "Sikka",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:26.000000Z",
+    "jnt_code": "MOF",
+    "jnt_name": "MAUMERE"
+  },
+  {
+    "id": 413,
+    "provinsi_id": 34,
+    "kabupaten_name": "Simalungun",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:27.000000Z",
+    "jnt_code": "RYA",
+    "jnt_name": "SIMALUNGUN"
+  },
+  {
+    "id": 414,
+    "provinsi_id": 21,
+    "kabupaten_name": "Simeulue",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:27.000000Z",
+    "jnt_code": "SNB",
+    "jnt_name": "SINABANG"
+  },
+  {
+    "id": 415,
+    "provinsi_id": 12,
+    "kabupaten_name": "Singkawang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:27.000000Z",
+    "jnt_code": "SKW",
+    "jnt_name": "SINGKAWANG"
+  },
+  {
+    "id": 416,
+    "provinsi_id": 28,
+    "kabupaten_name": "Sinjai",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:27.000000Z",
+    "jnt_code": "SNJ",
+    "jnt_name": "SINJAI"
+  },
+  {
+    "id": 417,
+    "provinsi_id": 12,
+    "kabupaten_name": "Sintang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:27.000000Z",
+    "jnt_code": "SQG",
+    "jnt_name": "SINTANG"
+  },
+  {
+    "id": 418,
+    "provinsi_id": 11,
+    "kabupaten_name": "Situbondo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:28.000000Z",
+    "jnt_code": "SBD",
+    "jnt_name": "SITUBONDO"
+  },
+  {
+    "id": 419,
+    "provinsi_id": 5,
+    "kabupaten_name": "Sleman",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:28.000000Z",
+    "jnt_code": "SLM",
+    "jnt_name": "SLEMAN"
+  },
+  {
+    "id": 420,
+    "provinsi_id": 32,
+    "kabupaten_name": "Solok",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:28.000000Z",
+    "jnt_code": "ZLK",
+    "jnt_name": "SOLOK"
+  },
+  {
+    "id": 421,
+    "provinsi_id": 32,
+    "kabupaten_name": "Solok",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:14.000000Z",
+    "jnt_code": "ZLK",
+    "jnt_name": "SOLOK"
+  },
+  {
+    "id": 422,
+    "provinsi_id": 32,
+    "kabupaten_name": "Solok Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:28.000000Z",
+    "jnt_code": "PDA",
+    "jnt_name": "SOLOK SELATAN"
+  },
+  {
+    "id": 423,
+    "provinsi_id": 28,
+    "kabupaten_name": "Soppeng",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:28.000000Z",
+    "jnt_code": "WSE",
+    "jnt_name": "SOPPENG"
+  },
+  {
+    "id": 424,
+    "provinsi_id": 25,
+    "kabupaten_name": "Sorong",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:28.000000Z",
+    "jnt_code": "SOQ",
+    "jnt_name": "SORONG"
+  },
+  {
+    "id": 425,
+    "provinsi_id": 25,
+    "kabupaten_name": "Sorong",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:14.000000Z",
+    "jnt_code": "SOQ",
+    "jnt_name": "SORONG"
+  },
+  {
+    "id": 426,
+    "provinsi_id": 25,
+    "kabupaten_name": "Sorong Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:28.000000Z",
+    "jnt_code": "TEM",
+    "jnt_name": "SORONG SELATAN"
+  },
+  {
+    "id": 427,
+    "provinsi_id": 10,
+    "kabupaten_name": "Sragen",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:29.000000Z",
+    "jnt_code": "SRN",
+    "jnt_name": "SRAGEN"
+  },
+  {
+    "id": 428,
+    "provinsi_id": 9,
+    "kabupaten_name": "Subang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:29.000000Z",
+    "jnt_code": "SBG",
+    "jnt_name": "SUBANG"
+  },
+  {
+    "id": 429,
+    "provinsi_id": 21,
+    "kabupaten_name": "Subulussalam",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:29.000000Z",
+    "jnt_code": "SBM",
+    "jnt_name": "SUBULUSSALAM"
+  },
+  {
+    "id": 430,
+    "provinsi_id": 9,
+    "kabupaten_name": "Sukabumi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:30.000000Z",
+    "jnt_code": "SMI",
+    "jnt_name": "SUKABUMI"
+  },
+  {
+    "id": 431,
+    "provinsi_id": 9,
+    "kabupaten_name": "Sukabumi",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:15.000000Z",
+    "jnt_code": "SMI",
+    "jnt_name": "SUKABUMI"
+  },
+  {
+    "id": 432,
+    "provinsi_id": 14,
+    "kabupaten_name": "Sukamara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:30.000000Z",
+    "jnt_code": "SKM",
+    "jnt_name": "SUKAMARA"
+  },
+  {
+    "id": 433,
+    "provinsi_id": 10,
+    "kabupaten_name": "Sukoharjo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:30.000000Z",
+    "jnt_code": "SUJ",
+    "jnt_name": "SUKOHARJO"
+  },
+  {
+    "id": 434,
+    "provinsi_id": 23,
+    "kabupaten_name": "Sumba Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:30.000000Z",
+    "jnt_code": "WBK",
+    "jnt_name": "WAIKABUBAK"
+  },
+  {
+    "id": 435,
+    "provinsi_id": 23,
+    "kabupaten_name": "Sumba Barat Daya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:30.000000Z",
+    "jnt_code": "TAM",
+    "jnt_name": "TAMBOLAKA"
+  },
+  {
+    "id": 436,
+    "provinsi_id": 23,
+    "kabupaten_name": "Sumba Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:30.000000Z",
+    "jnt_code": "WAB",
+    "jnt_name": "WAIBAKUL"
+  },
+  {
+    "id": 437,
+    "provinsi_id": 23,
+    "kabupaten_name": "Sumba Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:30.000000Z",
+    "jnt_code": "WGP",
+    "jnt_name": "WAINGAPU"
+  },
+  {
+    "id": 438,
+    "provinsi_id": 22,
+    "kabupaten_name": "Sumbawa",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:31.000000Z",
+    "jnt_code": "SWW",
+    "jnt_name": "SUMBAWA BESAR"
+  },
+  {
+    "id": 439,
+    "provinsi_id": 22,
+    "kabupaten_name": "Sumbawa Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:31.000000Z",
+    "jnt_code": "TAW",
+    "jnt_name": "SUMBAWA BARAT"
+  },
+  {
+    "id": 440,
+    "provinsi_id": 9,
+    "kabupaten_name": "Sumedang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:31.000000Z",
+    "jnt_code": "SUM",
+    "jnt_name": "SUMEDANG"
+  },
+  {
+    "id": 441,
+    "provinsi_id": 11,
+    "kabupaten_name": "Sumenep",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:31.000000Z",
+    "jnt_code": "SNX",
+    "jnt_name": "SUMENEP"
+  },
+  {
+    "id": 442,
+    "provinsi_id": 8,
+    "kabupaten_name": "Sungaipenuh",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:32.000000Z",
+    "jnt_code": "SUP",
+    "jnt_name": "SUNGAI PENUH"
+  },
+  {
+    "id": 443,
+    "provinsi_id": 24,
+    "kabupaten_name": "Supiori",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:32.000000Z",
+    "jnt_code": "SOD",
+    "jnt_name": "SORENDIWERI"
+  },
+  {
+    "id": 444,
+    "provinsi_id": 11,
+    "kabupaten_name": "Surabaya",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:32.000000Z",
+    "jnt_code": "SUB",
+    "jnt_name": "SURABAYA"
+  },
+  {
+    "id": 445,
+    "provinsi_id": 10,
+    "kabupaten_name": "Surakarta (Solo)",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:32.000000Z",
+    "jnt_code": "SOC",
+    "jnt_name": "SOLO"
+  },
+  {
+    "id": 446,
+    "provinsi_id": 13,
+    "kabupaten_name": "Tabalong",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:32.000000Z",
+    "jnt_code": "TJG",
+    "jnt_name": "TABALONG"
+  },
+  {
+    "id": 447,
+    "provinsi_id": 1,
+    "kabupaten_name": "Tabanan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:32.000000Z",
+    "jnt_code": "TNW",
+    "jnt_name": "TABANAN"
+  },
+  {
+    "id": 448,
+    "provinsi_id": 28,
+    "kabupaten_name": "Takalar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:33.000000Z",
+    "jnt_code": "TKL",
+    "jnt_name": "TAKALAR"
+  },
+  {
+    "id": 449,
+    "provinsi_id": 25,
+    "kabupaten_name": "Tambrauw",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:33.000000Z",
+    "jnt_code": "FEF",
+    "jnt_name": "TAMBRAUW"
+  },
+  {
+    "id": 450,
+    "provinsi_id": 16,
+    "kabupaten_name": "Tana Tidung",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:33.000000Z",
+    "jnt_code": "TTD",
+    "jnt_name": "TANA TIDUNG"
+  },
+  {
+    "id": 451,
+    "provinsi_id": 28,
+    "kabupaten_name": "Tana Toraja",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:33.000000Z",
+    "jnt_code": "MAE",
+    "jnt_name": "TANA TORAJA"
+  },
+  {
+    "id": 452,
+    "provinsi_id": 13,
+    "kabupaten_name": "Tanah Bumbu",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:33.000000Z",
+    "jnt_code": "BLN",
+    "jnt_name": "TANAH BUMBU"
+  },
+  {
+    "id": 453,
+    "provinsi_id": 32,
+    "kabupaten_name": "Tanah Datar",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:33.000000Z",
+    "jnt_code": "BZS",
+    "jnt_name": "TANAH DATAR"
+  },
+  {
+    "id": 454,
+    "provinsi_id": 13,
+    "kabupaten_name": "Tanah Laut",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:33.000000Z",
+    "jnt_code": "PLR",
+    "jnt_name": "TANAH LAUT"
+  },
+  {
+    "id": 455,
+    "provinsi_id": 3,
+    "kabupaten_name": "Tangerang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "TGR",
+    "jnt_name": "TANGERANG"
+  },
+  {
+    "id": 456,
+    "provinsi_id": 3,
+    "kabupaten_name": "Tangerang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:16.000000Z",
+    "jnt_code": "TGR",
+    "jnt_name": "TANGERANG"
+  },
+  {
+    "id": 457,
+    "provinsi_id": 3,
+    "kabupaten_name": "Tangerang Selatan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "CIP",
+    "jnt_name": "CIPUTAT"
+  },
+  {
+    "id": 458,
+    "provinsi_id": 18,
+    "kabupaten_name": "Tanggamus",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "KOG",
+    "jnt_name": "TANGGAMUS"
+  },
+  {
+    "id": 459,
+    "provinsi_id": 34,
+    "kabupaten_name": "Tanjung Balai",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "TJB",
+    "jnt_name": "TANJUNG BALAI"
+  },
+  {
+    "id": 460,
+    "provinsi_id": 8,
+    "kabupaten_name": "Tanjung Jabung Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "KTL",
+    "jnt_name": "TANJUNG JABUNG BARAT"
+  },
+  {
+    "id": 461,
+    "provinsi_id": 8,
+    "kabupaten_name": "Tanjung Jabung Timur",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "MUS",
+    "jnt_name": "TANJUNG JABUNG TIMUR"
+  },
+  {
+    "id": 462,
+    "provinsi_id": 17,
+    "kabupaten_name": "Tanjung Pinang",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "TNJ",
+    "jnt_name": "TANJUNG PINANG"
+  },
+  {
+    "id": 463,
+    "provinsi_id": 34,
+    "kabupaten_name": "Tapanuli Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "SIK",
+    "jnt_name": "SIPIROK"
+  },
+  {
+    "id": 464,
+    "provinsi_id": 34,
+    "kabupaten_name": "Tapanuli Tengah",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:34.000000Z",
+    "jnt_code": "PDN",
+    "jnt_name": "TAPANULI TENGAH"
+  },
+  {
+    "id": 465,
+    "provinsi_id": 34,
+    "kabupaten_name": "Tapanuli Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:35.000000Z",
+    "jnt_code": "SIB",
+    "jnt_name": "TAPANULI UTARA"
+  },
+  {
+    "id": 466,
+    "provinsi_id": 13,
+    "kabupaten_name": "Tapin",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:35.000000Z",
+    "jnt_code": "RTU",
+    "jnt_name": "RANTAU(BANJARMASIN)"
+  },
+  {
+    "id": 467,
+    "provinsi_id": 16,
+    "kabupaten_name": "Tarakan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:35.000000Z",
+    "jnt_code": "TRK",
+    "jnt_name": "TARAKAN"
+  },
+  {
+    "id": 468,
+    "provinsi_id": 9,
+    "kabupaten_name": "Tasikmalaya",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:35.000000Z",
+    "jnt_code": "TSK",
+    "jnt_name": "TASIKMALAYA"
+  },
+  {
+    "id": 469,
+    "provinsi_id": 9,
+    "kabupaten_name": "Tasikmalaya",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:17.000000Z",
+    "jnt_code": "TSK",
+    "jnt_name": "TASIKMALAYA"
+  },
+  {
+    "id": 470,
+    "provinsi_id": 34,
+    "kabupaten_name": "Tebing Tinggi",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:35.000000Z",
+    "jnt_code": "TTG",
+    "jnt_name": "TEBING TINGGI"
+  },
+  {
+    "id": 471,
+    "provinsi_id": 8,
+    "kabupaten_name": "Tebo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:35.000000Z",
+    "jnt_code": "MUT",
+    "jnt_name": "TEBO"
+  },
+  {
+    "id": 472,
+    "provinsi_id": 10,
+    "kabupaten_name": "Tegal",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:36.000000Z",
+    "jnt_code": "TGL",
+    "jnt_name": "TEGAL"
+  },
+  {
+    "id": 473,
+    "provinsi_id": 10,
+    "kabupaten_name": "Tegal",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:34:17.000000Z",
+    "jnt_code": "TGL",
+    "jnt_name": "TEGAL"
+  },
+  {
+    "id": 474,
+    "provinsi_id": 25,
+    "kabupaten_name": "Teluk Bintuni",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:36.000000Z",
+    "jnt_code": "NTI",
+    "jnt_name": "TELUK BINTUNI"
+  },
+  {
+    "id": 475,
+    "provinsi_id": 25,
+    "kabupaten_name": "Teluk Wondama",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:36.000000Z",
+    "jnt_code": "RAS",
+    "jnt_name": "TELUK WONDAMA"
+  },
+  {
+    "id": 476,
+    "provinsi_id": 10,
+    "kabupaten_name": "Temanggung",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:36.000000Z",
+    "jnt_code": "TNU",
+    "jnt_name": "TEMANGGUNG"
+  },
+  {
+    "id": 477,
+    "provinsi_id": 20,
+    "kabupaten_name": "Ternate",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:36.000000Z",
+    "jnt_code": "TTE",
+    "jnt_name": "TERNATE"
+  },
+  {
+    "id": 478,
+    "provinsi_id": 20,
+    "kabupaten_name": "Tidore Kepulauan",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:36.000000Z",
+    "jnt_code": "TID",
+    "jnt_name": "TIDORE"
+  },
+  {
+    "id": 479,
+    "provinsi_id": 23,
+    "kabupaten_name": "Timor Tengah Selatan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:36.000000Z",
+    "jnt_code": "SOE",
+    "jnt_name": "SOE"
+  },
+  {
+    "id": 480,
+    "provinsi_id": 23,
+    "kabupaten_name": "Timor Tengah Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:37.000000Z",
+    "jnt_code": "KEF",
+    "jnt_name": "TIMOR TENGAH UTARA"
+  },
+  {
+    "id": 481,
+    "provinsi_id": 34,
+    "kabupaten_name": "Toba Samosir",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:37.000000Z",
+    "jnt_code": "BAE",
+    "jnt_name": "TOBA SAMOSIR"
+  },
+  {
+    "id": 482,
+    "provinsi_id": 29,
+    "kabupaten_name": "Tojo Una-Una",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:37.000000Z",
+    "jnt_code": "AMP",
+    "jnt_name": "TOJO UNA-UNA"
+  },
+  {
+    "id": 483,
+    "provinsi_id": 29,
+    "kabupaten_name": "Toli-Toli",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:37.000000Z",
+    "jnt_code": "TLI",
+    "jnt_name": "TOLI-TOLI"
+  },
+  {
+    "id": 484,
+    "provinsi_id": 24,
+    "kabupaten_name": "Tolikara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:37.000000Z",
+    "jnt_code": "KAR",
+    "jnt_name": "TOLIKARA"
+  },
+  {
+    "id": 485,
+    "provinsi_id": 31,
+    "kabupaten_name": "Tomohon",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:38.000000Z",
+    "jnt_code": "TMH",
+    "jnt_name": "TOMOHON"
+  },
+  {
+    "id": 486,
+    "provinsi_id": 28,
+    "kabupaten_name": "Toraja Utara",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:38.000000Z",
+    "jnt_code": "RTP",
+    "jnt_name": "TORAJA UTARA"
+  },
+  {
+    "id": 487,
+    "provinsi_id": 11,
+    "kabupaten_name": "Trenggalek",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:38.000000Z",
+    "jnt_code": "TGK",
+    "jnt_name": "TRENGGALEK KOTA"
+  },
+  {
+    "id": 488,
+    "provinsi_id": 19,
+    "kabupaten_name": "Tual",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:38.000000Z",
+    "jnt_code": "UAL",
+    "jnt_name": "TUAL"
+  },
+  {
+    "id": 489,
+    "provinsi_id": 11,
+    "kabupaten_name": "Tuban",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:38.000000Z",
+    "jnt_code": "TBN",
+    "jnt_name": "TUBAN"
+  },
+  {
+    "id": 490,
+    "provinsi_id": 18,
+    "kabupaten_name": "Tulang Bawang",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "MEL",
+    "jnt_name": "TULANG BAWANG"
+  },
+  {
+    "id": 491,
+    "provinsi_id": 18,
+    "kabupaten_name": "Tulang Bawang Barat",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "TBT",
+    "jnt_name": "TULANG BAWANG BARAT"
+  },
+  {
+    "id": 492,
+    "provinsi_id": 11,
+    "kabupaten_name": "Tulungagung",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "TLA",
+    "jnt_name": "TULUNG AGUNG"
+  },
+  {
+    "id": 493,
+    "provinsi_id": 28,
+    "kabupaten_name": "Wajo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "SEK",
+    "jnt_name": "WAJO"
+  },
+  {
+    "id": 494,
+    "provinsi_id": 30,
+    "kabupaten_name": "Wakatobi",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "WTB",
+    "jnt_name": "WAKATOBI"
+  },
+  {
+    "id": 495,
+    "provinsi_id": 24,
+    "kabupaten_name": "Waropen",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "YPN",
+    "jnt_name": "YAPEN WAROPEN"
+  },
+  {
+    "id": 496,
+    "provinsi_id": 18,
+    "kabupaten_name": "Way Kanan",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "BLM",
+    "jnt_name": "WAY KANAN"
+  },
+  {
+    "id": 497,
+    "provinsi_id": 10,
+    "kabupaten_name": "Wonogiri",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:39.000000Z",
+    "jnt_code": "WGI",
+    "jnt_name": "WONOGIRI"
+  },
+  {
+    "id": 498,
+    "provinsi_id": 10,
+    "kabupaten_name": "Wonosobo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:40.000000Z",
+    "jnt_code": "WNB",
+    "jnt_name": "WONOSOBO"
+  },
+  {
+    "id": 499,
+    "provinsi_id": 24,
+    "kabupaten_name": "Yahukimo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:40.000000Z",
+    "jnt_code": "SUH",
+    "jnt_name": "YAHUKIMO"
+  },
+  {
+    "id": 500,
+    "provinsi_id": 24,
+    "kabupaten_name": "Yalimo",
+    "type": "Kabupaten",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:40.000000Z",
+    "jnt_code": "ELE",
+    "jnt_name": "YALIMO"
+  },
+  {
+    "id": 501,
+    "provinsi_id": 5,
+    "kabupaten_name": "Yogyakarta",
+    "type": "Kota",
+    "created_at": null,
+    "updated_at": "2020-11-22T19:33:40.000000Z",
+    "jnt_code": "JOG",
+    "jnt_name": "YOGYAKARTA"
+  }
+]
