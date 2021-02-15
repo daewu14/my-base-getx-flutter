@@ -13,10 +13,11 @@ class TestScreen extends BaseView<TestController> {
   @override
   Widget vBuilder() => Scaffold(
       appBar: AppBar(title: Text("${XR().string.test_screen}")),
-      body: AnimatedSwitcher(
-        duration: Duration(milliseconds: 500),
-        child: _body(),
-      ),
+      // body: AnimatedSwitcher(
+      //   duration: Duration(milliseconds: 500),
+      //   child: _body(),
+      // ),
+      body: _body(),
       floatingActionButton: FloatingActionButton(
         child: Icon(Icons.add, color: Colors.white,),
         onPressed: controller.increment,

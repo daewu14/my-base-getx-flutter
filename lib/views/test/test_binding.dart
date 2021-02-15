@@ -24,7 +24,7 @@ class TestController extends BaseController {
   void onInit() async {
     setEnableScrollController = true;
     super.onInit();
-    await 3.delay();
+    await 2.delay();
     setScreenState = screenStateOk;
     update();
   }
