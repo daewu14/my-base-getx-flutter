@@ -21,6 +21,8 @@ class Result<T> {
   var rc;
   String text;
   String messages;
+
+  /// TO PARSE INTO MODEL USE .fromMap()
   T body;
 
   factory Result.fromJson(String str) => Result.fromMap(json.decode(str));

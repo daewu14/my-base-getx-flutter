@@ -46,7 +46,19 @@ class TestController extends BaseController {
     showLoadingDialog();
     var res = await getDataMember();
     hideDialog();
-    showSnackBar(title: "Response",  message: res.body.toString());
+    String text = '';
+
+    if (res.isError) text = XR().string.error_message;
+
+    if (res.status == true) {
+      try{
+        var member = Member.fromMap(res.body['member']);
+        text = member.name;
+      } catch (e) {
+        text = XR().string.error_message;
+      }
+    }
+    showSnackBar(title: "Response",  message: text);
   }
 
   void showAlertDialog() {
