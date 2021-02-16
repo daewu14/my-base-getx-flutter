@@ -47,7 +47,7 @@ class _Api extends GetConnect {
   Result _result = Result(
       status: false,
       isError: false,
-      text: "Terjadi kesalahan, coba beberapa saat lagi."
+      text: "${XR().string.error_message}"
   );
 
   bool _withToken = false;
