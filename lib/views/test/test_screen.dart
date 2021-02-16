@@ -64,15 +64,11 @@ class TestScreen extends BaseView<TestController> {
             ),
             FlatButton(
               child: Text("CALL API MEMBER"),
-              onPressed: (){
-                controller.onGetMember();
-              },
+              onPressed: controller.onGetMember,
             ),
             FlatButton(
               child: Text("Show Alert"),
-              onPressed: (){
-                controller.showAlertDialog();
-              },
+              onPressed: controller.showAlertDialog,
             ),
             MemberWidget(),
             Divider(color: Colors.grey),

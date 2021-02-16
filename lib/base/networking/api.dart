@@ -43,32 +43,32 @@ class ApiService {
 /// PRIVATE CLASS
 /// USE THIS VIA [ApiService] class
 class _Api extends GetConnect {
-  String API_NAME = "api/";
+  String API_NAME = "api/scan/";
   Result _result = Result(
-    status: false,
-    isError: false,
-    text: "Terjadi kesalahan, coba beberapa saat lagi."
+      status: false,
+      isError: false,
+      text: "Terjadi kesalahan, coba beberapa saat lagi."
   );
 
   bool _withToken = false;
-
-  Map<String, String> _headers = {
-    "platform" : Platform.operatingSystem,
-    "accept" : "application/json; charset=utf-8",
-    "Content-Type" : "application/x-www-form-urlencoded",
-  };
 
   @override
   void onInit() async {
     httpClient.baseUrl = MyConfig.BASE_URL;
     String deviceId = await MyDeviceInfo().deviceID();
     String deviceName = await MyDeviceInfo().deviceName();
-    if (_withToken){
-      String token  = box.read(MyConfig.TOKEN_STRING_KEY);
-      if(token!=null)_headers['Authorization'] = "Bearer $token";
-    }
-    _headers['device-id'] = "$deviceId";
-    _headers['device-name'] = "$deviceName";
+    String pf = Platform.operatingSystem;
+    httpClient.addRequestModifier((request) {
+      request.headers['platform'] = pf;
+      request.headers['device-id'] = "$deviceId";
+      request.headers['device-name'] = "$deviceName";
+      if (_withToken){
+        String token  = box.read(MyConfig.TOKEN_STRING_KEY);
+        if(token!=null)request.headers['Authorization'] = "Bearer $token";
+      }
+      _showLogWhenDebug("HEADERS",request.headers.toString());
+      return request;
+    });
     super.onInit();
   }
 
@@ -85,14 +85,13 @@ class _Api extends GetConnect {
 
     _showLogWhenDebug(method == Method.GET ? "GET" : "POST",httpClient.baseUrl+API_NAME+endPoint);
     _showLogWhenDebug("PARAMS",query.toString());
-    _showLogWhenDebug("HEADERS",_headers.toString());
     _showLogWhenDebug("TOKEN",_withToken.toString());
     try {
       var res;
       if (method == Method.GET) {
-        res = await get(API_NAME+endPoint, query: param, headers: _headers);
+        res = await get(API_NAME+endPoint, query: param);
       } else {
-        res = await post(API_NAME+endPoint, param, headers: _headers);
+        res = await post(API_NAME+endPoint, param);
       }
 
       if(res.isOk){
@@ -124,11 +123,10 @@ class _Api extends GetConnect {
 
     _showLogWhenDebug("GET",httpClient.baseUrl+API_NAME+endPoint);
     _showLogWhenDebug("PARAMS",query.toString());
-    _showLogWhenDebug("HEADERS",_headers.toString());
     _showLogWhenDebug("TOKEN",_withToken.toString());
     try {
 
-      var res = await get(API_NAME+endPoint, query: query, headers: _headers);
+      var res = await get(API_NAME+endPoint, query: query);
       if(res.isOk){
         _showLogWhenDebug("LOADED",res.bodyString);
         _result = Result.fromJson(res.bodyString);
@@ -158,11 +156,9 @@ class _Api extends GetConnect {
 
     _showLogWhenDebug("POST",httpClient.baseUrl+API_NAME+endPoint);
     _showLogWhenDebug("PARAMS",data.toString());
-    _showLogWhenDebug("HEADERS",_headers.toString());
     _showLogWhenDebug("TOKEN",_withToken.toString());
     try {
-
-      var res = await post(API_NAME+endPoint, data, headers: _headers);
+      var res = await httpClient.post(API_NAME+endPoint,body: data);
       if(res.isOk){
         _showLogWhenDebug("LOADED",res.bodyString);
         _result = Result.fromJson(res.bodyString);

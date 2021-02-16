@@ -57,6 +57,8 @@ class TestController extends BaseController {
       } catch (e) {
         text = XR().string.error_message;
       }
+    } else {
+      text = res.text;
     }
     showSnackBar(title: "Response",  message: text);
   }
